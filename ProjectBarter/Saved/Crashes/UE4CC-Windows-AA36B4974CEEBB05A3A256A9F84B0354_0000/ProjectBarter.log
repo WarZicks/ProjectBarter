@@ -1,0 +1,873 @@
+﻿Log file open, 02/22/19 14:56:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291411
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.150s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="WarZicks" -epicuserid=99887eaec6be48e1ab89856f117ef398 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.22-13.56.15:038][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-13.56.15:038][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.22-13.56.15:047][  0]LogHAL: Display: Platform has ~ 8 GB [8467357696 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.22-13.56.15:047][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.22-13.56.15:047][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.22-13.56.15:047][  0]LogInit: Computer: DESKTOP-CQL9TV7
+[2019.02.22-13.56.15:047][  0]LogInit: User: THéo
+[2019.02.22-13.56.15:047][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.22-13.56.15:047][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2019.02.22-13.56.15:047][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.22-13.56.15:047][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.22-13.56.15:047][  0]LogMemory: Process Physical Memory: 100.97 MB used, 100.97 MB peak
+[2019.02.22-13.56.15:047][  0]LogMemory: Process Virtual Memory: 89.44 MB used, 89.44 MB peak
+[2019.02.22-13.56.15:048][  0]LogMemory: Physical Memory: 5596.52 MB used,  2478.58 MB free, 8075.10 MB total
+[2019.02.22-13.56.15:048][  0]LogMemory: Virtual Memory: 4629.38 MB used,  2478.58 MB free, 134217728.00 MB total
+[2019.02.22-13.56.15:065][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.22-13.56.15:065][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.22-13.56.15:066][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.22-13.56.15:069][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2019.02.22-13.56.15:069][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.22-13.56.15:117][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.22-13.56.15:117][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.22-13.56.15:400][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-13.56.15:400][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.22-13.56.15:474][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.02.22-13.56.15:474][  0]LogD3D11RHI:       2987/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.22-13.56.15:484][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.02.22-13.56.15:484][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.22-13.56.15:487][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.22-13.56.15:487][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.22-13.56.15:487][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.22-13.56.15:515][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.22-13.56.15:516][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.22-13.56.15:516][  0]LogWindows: EnumDisplayDevices:
+[2019.02.22-13.56.15:516][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.02.22-13.56.15:516][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.22-13.56.15:517][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.22-13.56.15:517][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.22-13.56.15:517][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.22-13.56.15:517][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.22-13.56.15:518][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.22-13.56.15:518][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.22-13.56.15:518][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.02.22-13.56.15:518][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.02.22-13.56.15:518][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.02.22-13.56.15:518][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.02.22-13.56.15:565][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.22-13.56.15:583][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.22-13.56.15:585][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/10500/).
+[2019.02.22-13.56.15:585][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/THéo/AppData/Local/Temp/UnrealShaderWorkingDir/E4EBEC854BE2BF8001236586A0BCFF34/'.
+[2019.02.22-13.56.15:951][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.22-13.56.15:966][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.22-13.56.15:982][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.22-13.56.15:998][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.22-13.56.16:013][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.22-13.56.16:028][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.22-13.56.16:044][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.22-13.56.16:060][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.22-13.56.16:067][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:158][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.22-13.56.16:160][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.22-13.56.16:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.22-13.56.16:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.22-13.56.16:248][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.22-13.56.16:248][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.22-13.56.16:262][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.22-13.56.16:276][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.22-13.56.16:289][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.22-13.56.16:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.22-13.56.16:312][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.22-13.56.16:312][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.22-13.56.16:390][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.22-13.56.16:390][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.22-13.56.16:390][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.22-13.56.17:176][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.22-13.56.17:236][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.22-13.56.17:237][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.22-13.56.17:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.22-13.56.17:237][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.22-13.56.17:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.22-13.56.17:237][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.22-13.56.17:250][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.22-13.56.17:263][  0]LogDerivedDataCache: Using Local data cache path C:/Users/THéo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.22-13.56.17:263][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.22-13.56.17:263][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.22-13.56.17:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.22-13.56.17:282][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.22-13.56.17:283][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.22-13.56.17:373][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2019.02.22-13.56.17:684][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.22-13.56.17:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.22-13.56.17:833][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.22-13.56.17:834][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.22-13.56.17:834][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.22-13.56.17:834][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.22-13.56.17:853][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.02.22-13.56.18:456][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.086695 seconds
+[2019.02.22-13.56.18:463][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.22-13.56.18:463][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.02.22-13.56.18:463][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.22-13.56.19:502][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.22-13.56.19:516][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.22-13.56.19:668][  0]SourceControl: Source control is disabled
+[2019.02.22-13.56.19:668][  0]SourceControl: Source control is disabled
+[2019.02.22-13.56.19:670][  0]SourceControl: Source control is disabled
+[2019.02.22-13.56.19:671][  0]SourceControl: Source control is disabled
+[2019.02.22-13.56.19:838][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.22-13.56.19:895][  0]LogOcInput: OculusInput pre-init called
+[2019.02.22-13.56.19:965][  0]LogEngine: Initializing Engine...
+[2019.02.22-13.56.19:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.22-13.56.19:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.22-13.56.19:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-13.56.19:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.22-13.56.19:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-13.56.20:280][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.22-13.56.20:295][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.22-13.56.20:307][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-13.56.20:379][  0]LogInit: FAudioDevice initialized.
+[2019.02.22-13.56.20:379][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.22-13.56.22:097][  0]LogDerivedDataCache: Saved boot cache 1.72s 71MB C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.22-13.56.22:105][  0]LogInit: Texture streaming: Enabled
+[2019.02.22-13.56.22:129][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.22-13.56.22:144][  0]LogInit: Transaction tracking system initialized
+[2019.02.22-13.56.22:173][  0]BlueprintLog: New page: Editor Load
+[2019.02.22-13.56.22:267][  0]LocalizationService: Localization service is disabled
+[2019.02.22-13.56.22:552][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.22-13.56.22:552][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.22-13.56.22:552][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.22-13.56.22:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.22-13.56.22:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.22-13.56.22:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.22-13.56.22:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.22-13.56.22:695][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/' took 0.02s
+[2019.02.22-13.56.22:696][  0]SourceControl: Source control is disabled
+[2019.02.22-13.56.22:696][  0]Cmd: MAP LOAD FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.22-13.56.22:696][  0]LightingResults: New page: Lighting Build
+[2019.02.22-13.56.22:700][  0]MapCheck: New page: Map Check
+[2019.02.22-13.56.22:700][  0]LightingResults: New page: Lighting Build
+[2019.02.22-13.56.23:951][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-13.56.23:970][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.22-13.56.23:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.22-13.56.24:097][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101,655ms to complete.
+[2019.02.22-13.56.24:097][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.402
+[2019.02.22-13.56.24:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-13.56.24:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-13.56.24:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-13.56.24:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-13.56.24:295][  0]LogCollectionManager: Loaded 0 collections in 0.002531 seconds
+[2019.02.22-13.56.24:344][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.02.22-13.56.24:344][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/Developers/THéo/Collections/' took 0.01s
+[2019.02.22-13.56.24:344][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.02.22-13.56.24:344][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.22-13.56.24:356][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
+[2019.02.22-13.56.24:372][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.22-13.56.24:528][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.22-13.56.24:547][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.22-13.56.24:649][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.22-13.56.24:651][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.22-13.56.24:661][  0]LogSlate: Took 0.001574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.22-13.56.24:762][  0]LogRenderer: Reallocating scene render targets to support 856x400 Format 10 NumSamples 1 (Frame:1).
+[2019.02.22-13.56.24:973][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.22-13.56.24:973][  0]LogLoad: (Engine Initialization) Total time: 12.74 seconds
+[2019.02.22-13.56.24:973][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.22-13.56.24:986][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.22-13.56.25:008][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.22-13.56.25:038][  0]LogSlate: Took 0.001991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.22-13.56.25:124][  1]LogAssetRegistry: Asset discovery search completed in 7.7744 seconds
+[2019.02.22-13.56.25:127][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.22-13.56.25:127][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2019.02.22-13.56.31:880][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-13.56.32:093][685]LogRenderer: Reallocating scene render targets to support 856x404 Format 10 NumSamples 1 (Frame:583).
+[2019.02.22-13.56.32:141][686]LogRenderer: Reallocating scene render targets to support 856x408 Format 10 NumSamples 1 (Frame:585).
+[2019.02.22-13.56.32:191][687]LogRenderer: Reallocating scene render targets to support 856x412 Format 10 NumSamples 1 (Frame:587).
+[2019.02.22-13.56.48:037][105]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.22-13.56.48:632][105]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.02.22-13.56.50:308][105]LogSlate: Took 0.001752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.22-13.56.50:432][106]LogSlate: Took 0.001738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.22-13.57.01:225][647]LogSlate: Window 'BP_PickupItemParent' being destroyed
+[2019.02.22-13.57.07:485][957]LogSlate: Window 'BP_PickupItem01' being destroyed
+[2019.02.22-13.57.12:484][200]LogSlate: Window 'BP_PickupItem02' being destroyed
+[2019.02.22-13.57.16:134][431]LogSlate: Window 'BP_PickupItem03' being destroyed
+[2019.02.22-14.01.19:463][361]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.22-14.01.27:483][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest
+[2019.02.22-14.01.27:825][ 24]LogRenderer: Reallocating scene render targets to support 984x572 Format 10 NumSamples 1 (Frame:1).
+[2019.02.22-14.01.30:308][290]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.22-14.01.33:503][648]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest from Actor to BP_PickupItemParent_C...
+[2019.02.22-14.01.33:508][648]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.01.35:773][865]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest2F8B604E4F7276CADC91F9A8C4E8B004.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.01.46:095][994]LogSlate: Took 0.006368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.22-14.01.48:114][208]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.01.52:148][639]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.01.52:696][671]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest94DA737B4852B1CFE8C346BB02846135.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.02.14:292][  4]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.02.14:886][ 50]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_ChestD15E478440FB41EBBBAB47873D639032.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.02.48:177][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2019.02.22-14.02.48:177][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2019.02.22-14.02.48:177][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2019.02.22-14.02.48:177][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2019.02.22-14.02.48:177][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2019.02.22-14.02.48:184][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.02.22-14.02.48:184][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.02.22-14.02.48:184][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.02.22-14.02.48:184][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.02.22-14.02.48:184][468]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2019.02.22-14.02.53:075][923]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.02.53:572][945]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest9389B9834B746651EABB5688C5887C83.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.03.03:307][921]BlueprintLog: New page: Compile BP_PickupItem03
+[2019.02.22-14.03.03:932][949]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem03D416A4F1434F627D6EFE87B277C2020F.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem03.uasset'
+[2019.02.22-14.03.26:406][278]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem0303CFEF894C129083147118BBCBED116A.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem03.uasset'
+[2019.02.22-14.04.12:236][237]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.04.12:839][258]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest93E6B21A4A69C683791724B66232E5EE.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.04.26:353][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.04.26:436][ 71]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.04.26:899][ 83]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_ChestF87996204D382D126EFC7C98FADD86C3.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.04.34:872][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.04.37:189][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.04.37:273][692]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.04.37:802][707]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest8C4C794D450992975765F3BDC29D60EF.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.04.41:195][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.22-14.04.43:437][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.04.47:140][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.04.52:336][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.05.00:799][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.05.00:882][ 75]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.05.01:455][ 94]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest4D95EC9C4D42091B058144B0447D1314.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.05.04:949][303]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.05.04:970][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.05.04:971][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.05.04:990][303]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:05:04)
+[2019.02.22-14.05.04:990][303]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.05.05:007][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016644s)
+[2019.02.22-14.05.05:008][303]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.05.05:008][303]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2019.02.22-14.05.05:008][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018332s)
+[2019.02.22-14.05.05:056][303]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.05.05:128][303]LogInit: FAudioDevice initialized.
+[2019.02.22-14.05.05:170][303]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.05.05:175][303]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.02.22-15.05.05
+[2019.02.22-14.05.05:176][303]LogWorld: Bringing up level for play took: 0.003880
+[2019.02.22-14.05.05:201][303]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.02.22-14.05.05:202][303]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,802
+[2019.02.22-14.05.05:202][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.05.21:842][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.05.21:842][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.05.21:895][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.05.21:895][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.05.21:934][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.05.21:952][301]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.22-14.05.24:056][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-14.06.42:786][789]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_Auto121EF835C429F49B72926A49655FD8F2C.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2019.02.22-14.06.42:794][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.336
+[2019.02.22-14.06.42:794][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.336
+[2019.02.22-14.07.37:711][712]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/LootWidget.LootWidget
+[2019.02.22-14.07.44:478][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.07.44:487][ 88]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidgetADCA26F04C325C37C31E509DDDE0BDC8.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.08.55:324][184]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.09.34:303][504]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.09.41:619][936]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.09.51:879][544]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.11.28:304][329]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.11.28:994][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.11.29:006][351]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidgetB5F349464633EF608AF1BA90FCB8E364.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.12.30:570][958]LogBlueprint: Warning: [Compiler ] Leak Detected!  Close_Button ( Button ) still has living Slate widgets, it or the parent CanvasPanel_0 ( Canvas Panel ) is keeping them in memory.  Release all Slate resources in ReleaseSlateResources().
+[2019.02.22-14.12.59:417][582]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.12.59:866][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.12.59:886][604]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget92E1F3B449CA6863C72974B471982908.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.13.24:413][ 57]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.22-14.13.31:281][461]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.13.31:857][479]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest9EBFB14949D4E0FCE52CE1B1ED543DDE.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.13.38:088][823]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMapBBF539A1472B7A63254A37B4EF4C92CD.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.02.22-14.13.38:106][823]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.412
+[2019.02.22-14.13.38:440][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.13.38:460][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.13.38:461][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.13.38:461][843]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:13:38)
+[2019.02.22-14.13.38:461][843]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.13.38:478][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016683s)
+[2019.02.22-14.13.38:479][843]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.13.38:479][843]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2019.02.22-14.13.38:479][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018289s)
+[2019.02.22-14.13.38:530][843]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.13.38:608][843]LogInit: FAudioDevice initialized.
+[2019.02.22-14.13.38:618][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.13.38:710][843]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.13.38:716][843]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.02.22-15.13.38
+[2019.02.22-14.13.38:716][843]LogWorld: Bringing up level for play took: 0.005308
+[2019.02.22-14.13.38:730][843]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,331
+[2019.02.22-14.13.38:731][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.13.38:779][843]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.22-14.13.47:596][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.13.49:281][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.13.50:201][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.13.50:201][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.13.50:214][524]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.22-14.13.50:274][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.13.50:274][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.13.50:356][525]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.22-14.14.23:294][467]LogEditorTransaction: Undo Move Widget
+[2019.02.22-14.14.25:723][606]LogEditorTransaction: Undo Move Widget
+[2019.02.22-14.14.32:209][992]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.14.33:021][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.14.33:043][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.33:043][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.14.33:043][ 35]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:14:33)
+[2019.02.22-14.14.33:043][ 35]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.14.33:060][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016551s)
+[2019.02.22-14.14.33:061][ 35]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.14.33:061][ 35]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2019.02.22-14.14.33:061][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017524s)
+[2019.02.22-14.14.33:108][ 35]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.14.33:177][ 35]LogInit: FAudioDevice initialized.
+[2019.02.22-14.14.33:188][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.14.33:285][ 35]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.14.33:289][ 35]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.02.22-15.14.33
+[2019.02.22-14.14.33:289][ 35]LogWorld: Bringing up level for play took: 0.003076
+[2019.02.22-14.14.33:303][ 35]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,904
+[2019.02.22-14.14.33:304][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.40:105][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.40:106][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.14.40:119][435]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.22-14.14.40:172][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.14.40:172][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.40:226][436]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.22-14.14.44:910][716]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.14.44:924][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.44:924][716]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.22-14.14.44:929][716]LogPlayLevel: [PlayLevel] Compiling BP_Chest before play...
+[2019.02.22-14.14.45:095][716]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2019.02.22-14.14.45:095][716]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:14:45)
+[2019.02.22-14.14.45:095][716]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.14.45:110][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015142s)
+[2019.02.22-14.14.45:111][716]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.14.45:111][716]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.02.22-14.14.45:111][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016020s)
+[2019.02.22-14.14.45:161][716]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.14.45:230][716]LogInit: FAudioDevice initialized.
+[2019.02.22-14.14.45:240][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.14.45:369][716]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.14.45:373][716]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.02.22-15.14.45
+[2019.02.22-14.14.45:373][716]LogWorld: Bringing up level for play took: 0.003416
+[2019.02.22-14.14.45:389][716]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,989
+[2019.02.22-14.14.45:389][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.14.49:575][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.14.50:949][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.14.56:899][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.15.02:346][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.15.03:131][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.15.03:131][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.15.03:146][763]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.22-14.15.03:193][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.15.03:194][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.15.03:249][764]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.22-14.15.06:408][949]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest86F082434F1F36565C650E801C9B4559.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.15.09:937][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.15.09:958][158]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidgetE464C7114A51A9913243F8BE39634DFF.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.16.44:702][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.44:702][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.44:703][152]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (Image /Engine/UMG/Editor/Transient.Loot01_Img).  Import failed...
+[2019.02.22-14.16.44:703][152]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_3"''
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.16.49:860][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.02.22-14.16.49:861][453]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.02.22-14.16.49:861][453]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4) from referencer (Image /Engine/UMG/Editor/Transient.Image_356).  Import failed...
+[2019.02.22-14.16.49:861][453]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_4"''
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_53.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_54.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_55.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.17.03:792][274]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5) from referencer (Image /Engine/UMG/Editor/Transient.Image_357).  Import failed...
+[2019.02.22-14.17.03:792][274]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_53.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_57.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_56.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_64.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_58.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_59.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_60.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_61.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_63.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.27:801][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_54.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_55.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_62.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.27:803][269]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (TextBlock /Engine/UMG/Editor/Transient.Loot01_Text).  Import failed...
+[2019.02.22-14.18.27:803][269]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_53.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_57.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_56.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_64.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_58.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_65.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_66.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_67.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_59.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_60.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_61.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_63.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_54.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:232][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_55.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_62.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.18.49:233][537]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8) from referencer (TextBlock /Engine/UMG/Editor/Transient.Loot02_Text).  Import failed...
+[2019.02.22-14.18.49:233][537]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_8"''
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.SKEL_InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget:WidgetTree.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_40.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_53.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_57.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LootWidget_C_40:WidgetTree.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_56.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_50.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_64.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_58.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:695][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_65.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_66.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_67.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_68.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_69.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_70.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_59.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_60.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_61.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_63.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LootWidget.LootWidget_C:WidgetTree.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_54.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_55.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_49.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_51.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_48.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_62.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:LootWidget_C_52.WidgetTree_0.CanvasPanel_0
+[2019.02.22-14.19.11:696][868]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (TextBlock /Engine/UMG/Editor/Transient.Loot03_Text).  Import failed...
+[2019.02.22-14.19.11:696][868]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2019.02.22-14.21.39:630][255]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.21.44:955][567]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.21.50:842][912]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.21.56:618][252]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.22-14.22.26:579][554]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.22.27:069][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.22.27:090][575]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget966873E7424B820FC2A0D19AF631CAAD.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.22.42:779][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2019.02.22-14.23.31:689][409]BlueprintLog: New page: Compile TopDownGameMode
+[2019.02.22-14.23.32:145][418]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownGameModeBFC590CE4B56FC7AF8200EB08FE16CD3.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2019.02.22-14.24.12:323][127]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryWidget.InventoryWidget
+[2019.02.22-14.24.18:259][433]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_Auto2FE27A28C47746078A7C2D0B6746AF0B9.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.02.22-14.24.18:262][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.243
+[2019.02.22-14.24.18:262][433]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2019.02.22-14.26.02:545][129]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.26.02:959][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.26.02:988][146]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget5BA245E342160C7082E762BB5D33EF10.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.26.10:461][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.26.10:488][591]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget8AB089BF432C79F1C8AF41A5D568CEE5.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.26.34:574][ 11]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.26.34:956][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.26.34:991][ 27]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget0290A53446AF1DBCB03AC792866C4473.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.26.54:383][164]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.26.54:755][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.26.54:799][178]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget7D4A55ED46E73ADDC7E4D6A699D73DE7.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.27.15:413][389]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.27.15:775][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.27.15:825][402]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget081804C04654F9AEAA82B9AEDAFD3572.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.28.57:100][911]LogEditorTransaction: Undo Create Reroute Node
+[2019.02.22-14.29.36:100][243]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.29.36:747][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.29.36:805][274]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget2B65503B4C38F8371D671BAD4AD0CC60.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.30.02:499][788]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.30.02:928][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.30.02:990][805]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidgetC31873184CCF607BCC9FC09FF93A4EF6.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.30.21:797][901]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.30.22:261][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.30.22:326][920]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget24D2EF5E4226477A84F5CEB4855BBDD3.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.30.39:656][929]BlueprintLog: New page: Compile LootWidget
+[2019.02.22-14.30.40:194][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/LootWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset" SILENT=true
+[2019.02.22-14.30.40:267][952]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/LootWidget48F02D4C4A209E0FFF9C458336AC1E96.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/LootWidget.uasset'
+[2019.02.22-14.34.18:922][743]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_Auto3D4BD083645A9309E2C3F4E9880E335D9.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2019.02.22-14.34.18:925][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.306
+[2019.02.22-14.34.18:925][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.306
+[2019.02.22-14.37.05:048][234]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.37.05:645][251]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest1EECA63141E7D8861BD2CFA64E845AB1.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.37.16:672][911]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.37.16:702][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.37.16:703][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.37.16:703][911]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:37:16)
+[2019.02.22-14.37.16:703][911]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.37.16:719][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015796s)
+[2019.02.22-14.37.16:720][911]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.37.16:720][911]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2019.02.22-14.37.16:720][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017231s)
+[2019.02.22-14.37.16:799][911]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.37.16:867][911]LogInit: FAudioDevice initialized.
+[2019.02.22-14.37.16:901][911]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.37.16:906][911]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.02.22-15.37.16
+[2019.02.22-14.37.16:907][911]LogWorld: Bringing up level for play took: 0.004142
+[2019.02.22-14.37.16:920][911]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,521
+[2019.02.22-14.37.16:920][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.37.22:556][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.37.25:245][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.37.25:845][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.37.25:845][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.37.25:891][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.37.25:891][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.37.25:931][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.37.25:949][444]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.22-14.38.17:809][913]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.38.18:389][939]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_ChestF8EA53224F72F7A284B862B9C0FCE492.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.38.23:253][402]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest03FD94084D3A072D47A706B615FF0507.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.38.52:358][314]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.38.52:376][314]LogBlueprint: Error: [Compiler BP_Chest] The type of  Object  is undetermined.  Connect something to  Cast To TopDownGameMode  to imply a specific type.
+[2019.02.22-14.38.52:377][314]LogBlueprint: Error: [Compiler BP_Chest] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.02.22-14.38.52:559][314]LogBlueprint: Warning: [Compiler BP_Chest] [2560,33] Compile of BP_Chest failed. 2 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest)
+[2019.02.22-14.38.52:838][328]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_ChestB92B45FB45CAF0B20C347393152058FE.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.38.59:243][904]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.38.59:954][946]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest69D964F04E311A8707B3158D519B6A70.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.39.27:273][456]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest740A35D74A7B27D987B996930B2A0822.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.39.28:686][569]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.39.28:718][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.28:718][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.39.28:718][569]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:39:28)
+[2019.02.22-14.39.28:718][569]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.39.28:738][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020775s)
+[2019.02.22-14.39.28:739][569]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.39.28:739][569]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2019.02.22-14.39.28:740][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022166s)
+[2019.02.22-14.39.28:807][569]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.39.28:876][569]LogInit: FAudioDevice initialized.
+[2019.02.22-14.39.28:910][569]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.39.28:914][569]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.02.22-15.39.28
+[2019.02.22-14.39.28:915][569]LogWorld: Bringing up level for play took: 0.003582
+[2019.02.22-14.39.28:928][569]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,529
+[2019.02.22-14.39.28:928][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.36:200][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.37:191][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.37:192][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.39.37:236][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.39.37:236][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.37:281][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.39.37:301][314]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.22-14.39.37:695][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.38:597][428]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.39.38:622][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.38:622][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.39.38:622][428]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:39:38)
+[2019.02.22-14.39.38:622][428]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.39.38:639][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016019s)
+[2019.02.22-14.39.38:639][428]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.39.38:640][428]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2019.02.22-14.39.38:640][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017250s)
+[2019.02.22-14.39.38:688][428]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.39.38:756][428]LogInit: FAudioDevice initialized.
+[2019.02.22-14.39.38:766][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.39.38:886][428]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.39.38:891][428]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.02.22-15.39.38
+[2019.02.22-14.39.38:891][428]LogWorld: Bringing up level for play took: 0.003883
+[2019.02.22-14.39.38:906][428]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,507
+[2019.02.22-14.39.38:906][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.44:879][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.46:107][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.47:320][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.54:475][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.39.58:607][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.58:607][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.39.58:624][871]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.22-14.39.58:681][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.39.58:682][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.39.58:763][872]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.02.22-14.41.07:297][392]BlueprintLog: New page: Compile BP_Chest
+[2019.02.22-14.41.07:955][426]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest1BB869764B67E1F233EB68B29BC265B2.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.02.22-14.41.09:324][543]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.41.09:355][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.09:355][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.41.09:355][543]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:41:09)
+[2019.02.22-14.41.09:356][543]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.41.09:371][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015158s)
+[2019.02.22-14.41.09:372][543]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.41.09:372][543]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2019.02.22-14.41.09:372][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016712s)
+[2019.02.22-14.41.09:453][543]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.41.09:521][543]LogInit: FAudioDevice initialized.
+[2019.02.22-14.41.09:554][543]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.41.09:557][543]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.02.22-15.41.09
+[2019.02.22-14.41.09:558][543]LogWorld: Bringing up level for play took: 0.003372
+[2019.02.22-14.41.09:571][543]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1,173
+[2019.02.22-14.41.09:571][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.12:232][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.41.16:575][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.41.21:290][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.21:290][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.41.21:345][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.41.21:345][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.21:390][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.41.21:429][629]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.22-14.41.22:055][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.41.22:144][690]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.22-14.41.22:172][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.22:172][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.22-14.41.22:173][690]PIE: New page: PIE session: TopDownExampleMap (22 févr. 2019 16:41:22)
+[2019.02.22-14.41.22:173][690]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.02.22-14.41.22:189][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016156s)
+[2019.02.22-14.41.22:190][690]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.02.22-14.41.22:190][690]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.02.22-14.41.22:190][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017454s)
+[2019.02.22-14.41.22:240][690]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.22-14.41.22:310][690]LogInit: FAudioDevice initialized.
+[2019.02.22-14.41.22:344][690]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.02.22-14.41.22:348][690]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.02.22-15.41.22
+[2019.02.22-14.41.22:349][690]LogWorld: Bringing up level for play took: 0.003304
+[2019.02.22-14.41.22:362][690]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0,037
+[2019.02.22-14.41.22:362][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.25:209][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.41.27:943][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.22-14.41.30:093][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.30:093][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.41.30:140][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.22-14.41.30:141][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.02.22-14.41.30:185][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.22-14.41.30:203][414]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.02.22-14.45.17:352][ 60]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_Auto42AA5F84A44522581F9B25CB9E830256E.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2019.02.22-14.45.17:358][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.328
+[2019.02.22-14.45.17:358][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.328
+[2019.02.22-14.53.26:146][413]LogUObjectBase: Warning: Object is not registered
+[2019.02.22-14.53.27:042][413]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.896 s
+[2019.02.22-14.53.27:042][413]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.22-14.53.27:042][413]LogOutputDevice: Error: 
+[2019.02.22-14.53.27:042][413]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.02.22-14.53.27:042][413]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.22-14.53.27:042][413]LogOutputDevice: Error: Stack: 
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff90dcd71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff90da10c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff90da2b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8d48e11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8d48f060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8d353da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8d25cec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8d258f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8e8818204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8e8a5e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8e887281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8e8848190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff8e883b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff92b29d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff92b290270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff92b29f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff92b28c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff947556d41 USER32.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff947556713 USER32.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff92b2a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff6bdb954e5 UE4Editor.exe!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff6bdba5b3c UE4Editor.exe!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff6bdba5bba UE4Editor.exe!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff6bdbb3dac UE4Editor.exe!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff6bdbb5aaa UE4Editor.exe!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff9473e3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: [Callstack] 0x00007ff947ed3691 ntdll.dll!UnknownFunction []
+[2019.02.22-14.53.27:043][413]LogOutputDevice: Error: 
+[2019.02.22-14.53.27:054][413]LogStats:                SubmitErrorReport -  0.000 s
