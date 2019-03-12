@@ -1,0 +1,699 @@
+﻿Log file open, 03/05/19 10:15:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293566
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.437s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ｔｊｔａｚ" -epicuserid=4ca65350dd334d3391b285b1ca2cac80 -epiclocale=fr-FR
+LogInit: Base Directory: D:/Program files (x86)/Epic Games/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.160s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.05-09.15.28:448][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.05-09.15.28:448][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.05-09.15.28:639][  0]LogHAL: Display: Platform has ~ 8 GB [8469508096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.05-09.15.28:639][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.05-09.15.28:639][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.05-09.15.28:640][  0]LogInit: Computer: MSI
+[2019.03.05-09.15.28:640][  0]LogInit: User: Tjtaz
+[2019.03.05-09.15.28:640][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.05-09.15.28:640][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.05-09.15.28:640][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.05-09.15.28:640][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.05-09.15.28:640][  0]LogMemory: Process Physical Memory: 101.37 MB used, 101.37 MB peak
+[2019.03.05-09.15.28:640][  0]LogMemory: Process Virtual Memory: 89.49 MB used, 89.49 MB peak
+[2019.03.05-09.15.28:640][  0]LogMemory: Physical Memory: 6548.93 MB used,  1528.22 MB free, 8077.15 MB total
+[2019.03.05-09.15.28:640][  0]LogMemory: Virtual Memory: 4641.34 MB used,  1528.22 MB free, 134217728.00 MB total
+[2019.03.05-09.15.28:664][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.05-09.15.28:664][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.05-09.15.28:665][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.05-09.15.28:666][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.03.05-09.15.28:666][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.05-09.15.28:714][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.05-09.15.28:714][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.05-09.15.29:060][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.05-09.15.29:060][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.05-09.15.29:161][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.05-09.15.29:161][  0]LogD3D11RHI:       8081/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.05-09.15.29:172][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.05-09.15.29:172][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.05-09.15.29:175][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.05-09.15.29:175][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.05-09.15.29:175][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.05-09.15.29:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.05-09.15.29:212][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.05-09.15.29:212][  0]LogWindows: EnumDisplayDevices:
+[2019.03.05-09.15.29:212][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.05-09.15.29:213][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.05-09.15.29:213][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.05-09.15.29:213][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.05-09.15.29:214][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.05-09.15.29:214][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.05-09.15.29:214][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.05-09.15.29:215][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.05-09.15.29:215][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.05-09.15.29:215][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.03.05-09.15.29:215][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.03.05-09.15.29:215][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.03.05-09.15.29:282][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.05-09.15.29:300][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.05-09.15.29:303][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/15852/).
+[2019.03.05-09.15.29:304][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tjtaz/AppData/Local/Temp/UnrealShaderWorkingDir/CB0FC7E3476482ED42E0CBA745FC9C07/'.
+[2019.03.05-09.15.29:700][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.05-09.15.29:725][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.05-09.15.29:746][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.05-09.15.29:767][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.05-09.15.29:791][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.05-09.15.29:812][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.05-09.15.29:833][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.05-09.15.29:857][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.05-09.15.29:866][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:000][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-09.15.30:002][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.05-09.15.30:077][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.05-09.15.30:077][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.05-09.15.30:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.05-09.15.30:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.05-09.15.30:130][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.05-09.15.30:147][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.05-09.15.30:165][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.05-09.15.30:183][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.05-09.15.30:198][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.05-09.15.30:198][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.05-09.15.30:290][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.05-09.15.30:290][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.05-09.15.30:290][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.05-09.15.31:340][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.05-09.15.31:455][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.05-09.15.31:456][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.05-09.15.31:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.05-09.15.31:457][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.05-09.15.31:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.05-09.15.31:457][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.05-09.15.31:477][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.05-09.15.31:490][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tjtaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.05-09.15.31:490][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.05-09.15.31:490][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.05-09.15.31:515][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.05-09.15.31:517][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.05-09.15.31:518][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.05-09.15.31:616][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2019.03.05-09.15.32:094][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.05-09.15.32:292][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.05-09.15.32:296][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.05-09.15.32:296][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.05-09.15.32:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.05-09.15.32:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.05-09.15.32:313][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.03.05-09.15.33:432][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.486857 seconds
+[2019.03.05-09.15.33:444][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.05-09.15.33:444][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.05-09.15.33:444][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.05-09.15.34:660][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.05-09.15.34:674][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.05-09.15.34:857][  0]SourceControl: Source control is disabled
+[2019.03.05-09.15.34:857][  0]SourceControl: Source control is disabled
+[2019.03.05-09.15.34:858][  0]SourceControl: Source control is disabled
+[2019.03.05-09.15.34:859][  0]SourceControl: Source control is disabled
+[2019.03.05-09.15.35:077][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.05-09.15.35:229][  0]LogOcInput: OculusInput pre-init called
+[2019.03.05-09.15.35:306][  0]LogEngine: Initializing Engine...
+[2019.03.05-09.15.35:307][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.05-09.15.35:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.05-09.15.35:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.05-09.15.35:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.05-09.15.35:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.05-09.15.35:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.05-09.15.35:645][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.05-09.15.35:743][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.05-09.15.35:763][  0]LogInit: FAudioDevice initialized.
+[2019.03.05-09.15.35:763][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.05-09.15.35:879][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.05-09.15.35:894][  0]LogInit: Texture streaming: Enabled
+[2019.03.05-09.15.35:923][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.05-09.15.36:548][  0]LogInit: Transaction tracking system initialized
+[2019.03.05-09.15.36:587][  0]BlueprintLog: New page: Editor Load
+[2019.03.05-09.15.36:712][  0]LocalizationService: Localization service is disabled
+[2019.03.05-09.15.37:564][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.05-09.15.37:565][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.05-09.15.37:578][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.05-09.15.37:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.05-09.15.37:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.05-09.15.37:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.05-09.15.37:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.05-09.15.37:732][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 0.11s
+[2019.03.05-09.15.37:732][  0]SourceControl: Source control is disabled
+[2019.03.05-09.15.37:732][  0]Cmd: MAP LOAD FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.05-09.15.37:949][  0]LightingResults: New page: Lighting Build
+[2019.03.05-09.15.37:952][  0]MapCheck: New page: Map Check
+[2019.03.05-09.15.37:952][  0]LightingResults: New page: Lighting Build
+[2019.03.05-09.15.51:381][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.05-09.15.51:381][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2019.03.05-09.15.51:381][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2019.03.05-09.15.51:746][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.05-09.15.51:747][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2019.03.05-09.15.51:747][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2019.03.05-09.15.51:748][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.05-09.15.51:749][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.05-09.15.51:749][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.05-09.15.51:749][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.05-09.15.52:886][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.05-09.15.52:886][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2019.03.05-09.15.52:886][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.05-09.15.52:886][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2019.03.05-09.15.58:971][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.05-09.16.01:792][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.05-09.16.02:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.05-09.16.02:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,291ms to complete.
+[2019.03.05-09.16.02:121][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 24.389
+[2019.03.05-09.16.08:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.16.09:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.16.09:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.16.09:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.16.09:508][  0]LogCollectionManager: Loaded 0 collections in 0.002576 seconds
+[2019.03.05-09.16.10:511][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.03.05-09.16.10:511][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Developers/Tjtaz/Collections/' took 0.01s
+[2019.03.05-09.16.10:511][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.03.05-09.16.10:511][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.05-09.16.10:526][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2572 classes and 603 folders.
+[2019.03.05-09.16.10:849][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.05-09.16.20:262][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.05-09.16.20:385][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.05-09.16.26:087][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.05-09.16.26:089][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.05-09.16.26:338][  0]LogSlate: Took 0.032091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.05-09.16.27:977][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 9 NumSamples 1 (Frame:1).
+[2019.03.05-09.16.29:767][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.05-09.16.29:767][  0]LogLoad: (Engine Initialization) Total time: 67.53 seconds
+[2019.03.05-09.16.29:767][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.05-09.16.30:126][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.05-09.16.30:139][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.16.31:219][  0]LogSlate: Took 0.106395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.05-09.16.31:372][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 1.45s
+[2019.03.05-09.16.33:376][ 85]LogSlate: Window 'Message Log' being destroyed
+[2019.03.05-09.16.33:379][ 85]LogSlate: Window 'Message Log' being destroyed
+[2019.03.05-09.16.41:213][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.16.41:733][561]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.05-09.16.44:774][734]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.05-09.16.46:299][734]LogAIModule: Creating AISystem for world City_1
+[2019.03.05-09.16.46:376][734]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/City_1.City_1
+[2019.03.05-09.16.46:474][734]Cmd: MAP LOAD FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.05-09.16.46:474][734]LightingResults: New page: Lighting Build
+[2019.03.05-09.16.46:475][734]LoadErrors: New page: Loading map: City_1.umap
+[2019.03.05-09.16.46:544][734]MapCheck: New page: Map Check
+[2019.03.05-09.16.46:544][734]LightingResults: New page: Lighting Build
+[2019.03.05-09.16.46:746][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.05-09.16.46:808][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.05-09.16.46:877][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,412ms to complete.
+[2019.03.05-09.16.46:877][734]LogFileHelpers: Loading map 'City_1' took 0.404
+[2019.03.05-09.16.55:868][262]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.16.59:743][444]LogAssetRegistry: Asset discovery search completed in 88.1499 seconds
+[2019.03.05-09.16.59:745][444]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2019.03.05-09.17.08:609][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.17.14:380][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.17.34:059][765]Cmd: DELETE
+[2019.03.05-09.17.34:059][765]Cmd: ACTOR DELETE
+[2019.03.05-09.17.35:249][765]LogEditorActor: Deleted Actor: Brush
+[2019.03.05-09.17.35:619][765]LogEditorActor: Deleted 1 Actors (0.415 secs)
+[2019.03.05-09.17.53:003][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.17.59:695][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.18.04:880][423]Cmd: TRANSACTION UNDO
+[2019.03.05-09.18.04:880][423]LogEditorTransaction: Undo Move Actors
+[2019.03.05-09.18.11:583][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.18.59:424][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.19.00:310][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.19.04:077][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.19.06:594][ 24]Cmd: DELETE
+[2019.03.05-09.19.06:594][ 24]Cmd: ACTOR DELETE
+[2019.03.05-09.19.06:601][ 24]LogEditorActor: Deleted Actor: Character
+[2019.03.05-09.19.06:626][ 24]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.03.05-09.19.20:071][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.19.20:137][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.05-09.19.20:293][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.19.20:327][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.05-09.19.20:699][827]PIE: New page: PIE session: City_1 (5 mars 2019 11:19:20)
+[2019.03.05-09.19.20:699][827]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.05-09.19.21:041][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.342743s)
+[2019.03.05-09.19.21:042][827]LogAIModule: Creating AISystem for world City_1
+[2019.03.05-09.19.21:059][827]LogPlayLevel: PIE: World Init took: (0.017079s)
+[2019.03.05-09.19.21:059][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.360054s)
+[2019.03.05-09.19.21:422][827]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.05-09.19.21:431][827]LogInit: FAudioDevice initialized.
+[2019.03.05-09.19.21:480][827]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.05-09.19.21:572][827]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.05-10.19.21
+[2019.03.05-09.19.21:680][827]LogWorld: Bringing up level for play took: 0.128492
+[2019.03.05-09.19.21:844][827]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.03.05-09.19.21:931][827]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 1,314
+[2019.03.05-09.19.21:931][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.19.31:017][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.19.31:119][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.19.31:251][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.19.31:373][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.05-09.19.31:373][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.19.31:400][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.19.31:424][363]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.05-09.19.54:473][702]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2019.03.05-09.20.12:791][749]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2019.03.05-09.20.18:562][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.20.30:101][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.20.35:695][ 73]Cmd: DELETE
+[2019.03.05-09.20.35:695][ 73]Cmd: ACTOR DELETE
+[2019.03.05-09.20.35:703][ 73]LogEditorActor: Deleted Actor: Brush
+[2019.03.05-09.20.35:744][ 73]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.03.05-09.20.37:685][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.20.49:122][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.20.55:091][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.20.57:596][323]LogEditorActor: Deleted Actor: Brush
+[2019.03.05-09.20.57:633][323]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.03.05-09.21.11:670][ 80]LogEditorActor: Deleted Actor: Brush
+[2019.03.05-09.21.11:702][ 80]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.03.05-09.21.14:788][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.21.15:667][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.21.17:265][409]Cmd: SELECT NONE
+[2019.03.05-09.21.20:668][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.22.00:583][787]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.03.05-09.22.28:287][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.22.58:057][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.23.42:856][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.23.49:007][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.24.05:662][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.24.07:512][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.24.14:770][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.24.20:476][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.24.20:658][ 91]Cmd: MODE GRID=1
+[2019.03.05-09.24.40:195][253]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.24.44:169][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.24.48:685][761]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.24.49:411][804]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.24.49:877][832]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.24.50:344][860]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.24.50:794][887]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.24.56:496][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.25.12:791][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.25.35:256][520]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.03.05-09.25.35:268][520]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.03.05-09.25.47:509][520]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.05-09.25.47:510][520]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.05-09.25.47:511][520]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.05-09.26.07:689][573]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.07:689][573]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.26.07:745][573]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.03.05-09.26.11:174][762]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.11:175][762]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.26.40:011][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.26.42:452][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.26.51:370][132]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.51:370][132]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.26.51:403][132]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.03.05-09.26.51:719][147]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.51:719][147]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.26.51:753][147]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.03.05-09.26.51:909][152]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.51:910][152]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.26.52:085][158]Cmd: TRANSACTION UNDO
+[2019.03.05-09.26.52:085][158]LogEditorTransaction: Undo Creating New Landscape
+[2019.03.05-09.26.56:129][391]Cmd: TRANSACTION REDO
+[2019.03.05-09.26.56:129][391]LogEditorTransaction: Redo Creating New Landscape
+[2019.03.05-09.27.01:779][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.27.03:675][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.27.35:223][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.27.43:044][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.27.50:255][513]Cmd: TRANSACTION UNDO
+[2019.03.05-09.27.50:255][513]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2019.03.05-09.27.50:289][513]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.03.05-09.27.50:628][528]Cmd: TRANSACTION UNDO
+[2019.03.05-09.27.50:628][528]LogEditorTransaction: Undo Edit Ramp Width
+[2019.03.05-09.27.51:012][549]Cmd: TRANSACTION UNDO
+[2019.03.05-09.27.51:012][549]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2019.03.05-09.27.53:152][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.28.16:461][ 57]Cmd: TRANSACTION UNDO
+[2019.03.05-09.28.16:461][ 57]LogEditorTransaction: Undo Move Actors
+[2019.03.05-09.28.16:801][ 76]Cmd: TRANSACTION UNDO
+[2019.03.05-09.28.16:801][ 76]LogEditorTransaction: Undo Edit Brush Size
+[2019.03.05-09.28.17:602][122]Cmd: TRANSACTION UNDO
+[2019.03.05-09.28.17:602][122]LogEditorTransaction: Undo Edit Tool Strength
+[2019.03.05-09.28.18:017][145]Cmd: TRANSACTION UNDO
+[2019.03.05-09.28.18:017][145]LogEditorTransaction: Undo Edit Tool Strength
+[2019.03.05-09.28.18:398][167]Cmd: TRANSACTION UNDO
+[2019.03.05-09.28.18:398][167]LogEditorTransaction: Undo Creating New Landscape
+[2019.03.05-09.28.20:380][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.28.47:762][914]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2019.03.05-09.28.48:746][972]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2019.03.05-09.28.50:163][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.28.50:277][ 59]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2019.03.05-09.28.58:852][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.28.59:797][600]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2019.03.05-09.29.16:092][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.29.16:175][489]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.05-09.29.16:198][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.29.16:198][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.05-09.29.16:198][489]PIE: New page: PIE session: City_1 (5 mars 2019 11:29:16)
+[2019.03.05-09.29.16:198][489]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.05-09.29.16:328][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130246s)
+[2019.03.05-09.29.16:328][489]LogAIModule: Creating AISystem for world City_1
+[2019.03.05-09.29.16:329][489]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2019.03.05-09.29.16:329][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.131458s)
+[2019.03.05-09.29.16:381][489]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.05-09.29.16:391][489]LogInit: FAudioDevice initialized.
+[2019.03.05-09.29.16:424][489]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.05-09.29.16:431][489]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.05-10.29.16
+[2019.03.05-09.29.16:432][489]LogWorld: Bringing up level for play took: 0.007337
+[2019.03.05-09.29.16:455][489]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 -0,162
+[2019.03.05-09.29.16:455][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.29.18:858][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.29.18:942][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.29.18:943][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.29.19:215][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.05-09.29.19:216][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.05-09.29.19:245][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-09.29.19:276][638]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.05-09.29.22:245][798]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.30.07:503][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.30.09:276][369]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_1_Auto142B1C72F44F596DC862240B5F856DD1F.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/City_1_Auto1.umap'
+[2019.03.05-09.30.09:327][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/City_1' took 1.800
+[2019.03.05-09.30.09:327][369]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.800
+[2019.03.05-09.31.42:017][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.31.42:082][772]Cmd: MODE ROTGRID=0
+[2019.03.05-09.31.47:110][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.31.54:627][498]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2019.03.05-09.31.58:688][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.32.25:670][319]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2019.03.05-09.32.25:912][330]Cmd: SELECT NONE
+[2019.03.05-09.32.39:932][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.32.39:997][147]Cmd: MODE SCALEGRID=0
+[2019.03.05-09.32.54:440][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.33.14:689][139]Cmd: SELECT NONE
+[2019.03.05-09.33.59:889][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.40.09:506][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.40.10:472][963]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_1_Auto2A1548BA14470B919B6E76D8A3FB6C9AF.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/City_1_Auto2.umap'
+[2019.03.05-09.40.10:477][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/City_1' took 0.953
+[2019.03.05-09.40.10:477][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.953
+[2019.03.05-09.49.29:545][396]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume3)
+[2019.03.05-09.49.34:674][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.49.45:009][291]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume3)
+[2019.03.05-09.49.46:019][346]Cmd: DELETE
+[2019.03.05-09.49.46:019][346]Cmd: ACTOR DELETE
+[2019.03.05-09.49.46:033][346]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.03.05-09.49.46:178][346]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2019.03.05-09.49.47:107][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.49.50:805][616]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume2)
+[2019.03.05-09.49.53:306][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.49.55:885][896]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2019.03.05-09.49.57:999][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.05-09.50.11:973][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.05-09.50.19:212][152]Cmd: TRANSACTION UNDO
+[2019.03.05-09.50.19:212][152]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.03.05-09.50.30:214][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.50.59:216][414]Cmd: TRANSACTION UNDO
+[2019.03.05-09.50.59:216][414]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.03.05-09.51.26:279][542]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_1_Auto340C8E48A4C0ECD76F89CD496FDD440B6.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/City_1_Auto3.umap'
+[2019.03.05-09.51.26:284][542]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/City_1' took 0.757
+[2019.03.05-09.51.26:284][542]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.757
+[2019.03.05-09.56.09:835][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.05-09.56.10:943][408]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error E_INVALIDARG
+[2019.03.05-09.56.10:943][408]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2019.03.05-09.57.11:121][408]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2019.03.05-09.58.12:090][408]LogWindows: Error: === Critical error: ===
+[2019.03.05-09.58.12:213][408]LogWindows: Error: 
+[2019.03.05-09.58.12:232][408]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.03.05-09.58.12:268][408]LogWindows: Error: Rendering thread exception:
+[2019.03.05-09.58.12:349][408]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 251] 
+[2019.03.05-09.58.12:382][408]LogWindows: Error: Result failed 
+[2019.03.05-09.58.12:382][408]LogWindows: Error:  at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+[2019.03.05-09.58.12:442][408]LogWindows: Error:  with error E_INVALIDARG
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.12:442][408]LogWindows: Error: 
+[2019.03.05-09.58.16:194][408]LogExit: Executing StaticShutdownAfterError
+[2019.03.05-09.59.04:306][408]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.03.05-09.59.04:398][408]Log file closed, 03/05/19 10:59:04
