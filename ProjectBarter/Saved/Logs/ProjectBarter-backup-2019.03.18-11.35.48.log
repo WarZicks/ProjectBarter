@@ -1,0 +1,775 @@
+﻿Log file open, 03/18/19 11:01:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285959
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.161s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ｔｊｔａｚ" -epicuserid=4ca65350dd334d3391b285b1ca2cac80 -epiclocale=fr-FR
+LogInit: Base Directory: D:/Program files (x86)/Epic Games/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.048s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.18-10.01.55:542][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.18-10.01.55:542][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.18-10.01.55:555][  0]LogHAL: Display: Platform has ~ 8 GB [8469508096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.18-10.01.55:555][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.18-10.01.55:555][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.18-10.01.55:556][  0]LogInit: Computer: MSI
+[2019.03.18-10.01.55:556][  0]LogInit: User: Tjtaz
+[2019.03.18-10.01.55:556][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.18-10.01.55:556][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.18-10.01.55:556][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.18-10.01.55:556][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.18-10.01.55:556][  0]LogMemory: Process Physical Memory: 101.14 MB used, 101.15 MB peak
+[2019.03.18-10.01.55:556][  0]LogMemory: Process Virtual Memory: 89.38 MB used, 89.38 MB peak
+[2019.03.18-10.01.55:556][  0]LogMemory: Physical Memory: 5861.05 MB used,  2216.10 MB free, 8077.15 MB total
+[2019.03.18-10.01.55:556][  0]LogMemory: Virtual Memory: 4641.34 MB used,  2216.10 MB free, 134217728.00 MB total
+[2019.03.18-10.01.55:576][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.18-10.01.55:576][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.18-10.01.55:576][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.18-10.01.55:578][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.03.18-10.01.55:578][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.18-10.01.55:624][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.18-10.01.55:624][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.18-10.01.55:911][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.18-10.01.55:911][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.18-10.01.55:983][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.18-10.01.55:983][  0]LogD3D11RHI:       8081/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.18-10.01.55:993][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.18-10.01.55:993][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.18-10.01.55:995][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.18-10.01.55:995][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.18-10.01.55:995][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.18-10.01.56:022][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.18-10.01.56:022][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.18-10.01.56:022][  0]LogWindows: EnumDisplayDevices:
+[2019.03.18-10.01.56:022][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.18-10.01.56:023][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.18-10.01.56:023][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.18-10.01.56:023][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.18-10.01.56:024][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.18-10.01.56:024][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.18-10.01.56:024][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.18-10.01.56:024][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.18-10.01.56:024][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.18-10.01.56:024][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.03.18-10.01.56:024][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.03.18-10.01.56:024][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.03.18-10.01.56:070][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.18-10.01.56:082][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.18-10.01.56:084][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/2744/).
+[2019.03.18-10.01.56:084][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tjtaz/AppData/Local/Temp/UnrealShaderWorkingDir/886B0E9D40319B00DCA0B4BFE7CD8660/'.
+[2019.03.18-10.01.56:393][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.18-10.01.56:407][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.18-10.01.56:421][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.18-10.01.56:436][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.18-10.01.56:450][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.18-10.01.56:464][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.18-10.01.56:478][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.18-10.01.56:493][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.18-10.01.56:500][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.18-10.01.56:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-10.01.56:585][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.18-10.01.56:646][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.18-10.01.56:646][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.18-10.01.56:672][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.18-10.01.56:672][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.18-10.01.56:686][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.18-10.01.56:697][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.18-10.01.56:709][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.18-10.01.56:723][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.18-10.01.56:731][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.18-10.01.56:731][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.18-10.01.56:795][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.18-10.01.56:795][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.18-10.01.56:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.18-10.01.57:752][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.18-10.01.57:816][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.18-10.01.57:817][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.18-10.01.57:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.18-10.01.57:817][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.18-10.01.57:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.18-10.01.57:817][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.18-10.01.57:837][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.18-10.01.57:849][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tjtaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.18-10.01.57:849][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.18-10.01.57:849][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.18-10.01.57:867][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.18-10.01.57:868][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.18-10.01.57:868][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.18-10.01.57:942][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2019.03.18-10.01.58:251][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.18-10.01.58:388][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.18-10.01.58:391][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.18-10.01.58:391][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.18-10.01.58:391][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.18-10.01.58:391][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.18-10.01.58:408][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.03.18-10.01.59:215][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.095376 seconds
+[2019.03.18-10.01.59:222][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.18-10.01.59:222][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.03.18-10.01.59:222][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.18-10.02.00:099][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.18-10.02.00:113][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.18-10.02.00:254][  0]SourceControl: Source control is disabled
+[2019.03.18-10.02.00:254][  0]SourceControl: Source control is disabled
+[2019.03.18-10.02.00:256][  0]SourceControl: Source control is disabled
+[2019.03.18-10.02.00:256][  0]SourceControl: Source control is disabled
+[2019.03.18-10.02.00:415][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.18-10.02.00:524][  0]LogOcInput: OculusInput pre-init called
+[2019.03.18-10.02.00:587][  0]LogEngine: Initializing Engine...
+[2019.03.18-10.02.00:588][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.18-10.02.00:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.18-10.02.00:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.18-10.02.00:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.18-10.02.00:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.18-10.02.00:821][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.18-10.02.00:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.18-10.02.00:925][  0]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.02.00:944][  0]LogInit: FAudioDevice initialized.
+[2019.03.18-10.02.00:944][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.18-10.02.01:050][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.18-10.02.01:060][  0]LogInit: Texture streaming: Enabled
+[2019.03.18-10.02.01:080][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.18-10.02.01:103][  0]LogInit: Transaction tracking system initialized
+[2019.03.18-10.02.01:131][  0]BlueprintLog: New page: Editor Load
+[2019.03.18-10.02.01:222][  0]LocalizationService: Localization service is disabled
+[2019.03.18-10.02.01:489][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.18-10.02.01:490][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.18-10.02.01:490][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.18-10.02.01:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.18-10.02.01:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.18-10.02.01:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.18-10.02.01:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.18-10.02.01:625][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 0.02s
+[2019.03.18-10.02.01:625][  0]SourceControl: Source control is disabled
+[2019.03.18-10.02.01:625][  0]Cmd: MAP LOAD FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.18-10.02.01:630][  0]LightingResults: New page: Lighting Build
+[2019.03.18-10.02.01:633][  0]MapCheck: New page: Map Check
+[2019.03.18-10.02.01:633][  0]LightingResults: New page: Lighting Build
+[2019.03.18-10.02.02:481][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.18-10.02.02:481][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2019.03.18-10.02.02:481][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2019.03.18-10.02.02:505][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.18-10.02.02:505][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2019.03.18-10.02.02:505][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2019.03.18-10.02.02:507][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.18-10.02.02:507][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.18-10.02.02:507][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.18-10.02.02:507][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.18-10.02.02:603][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2019.03.18-10.02.02:603][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2019.03.18-10.02.02:603][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2019.03.18-10.02.02:603][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2019.03.18-10.02.03:735][  0]LogTexture: Display: Building textures: Player (BGRA8, 50X50)
+[2019.03.18-10.02.04:006][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.18-10.02.04:032][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.18-10.02.04:064][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.18-10.02.04:135][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70,778ms to complete.
+[2019.03.18-10.02.04:135][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.509
+[2019.03.18-10.02.04:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.02.04:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.02.04:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.02.04:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.02.04:614][  0]LogCollectionManager: Loaded 0 collections in 0.003032 seconds
+[2019.03.18-10.02.04:795][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.03.18-10.02.04:795][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Developers/Tjtaz/Collections/' took 0.01s
+[2019.03.18-10.02.04:795][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.03.18-10.02.04:795][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.18-10.02.04:806][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
+[2019.03.18-10.02.04:985][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.18-10.02.10:416][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.18-10.02.10:566][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.18-10.02.10:786][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.18-10.02.10:789][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.18-10.02.10:819][  0]LogSlate: Took 0.023118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.18-10.02.11:163][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 9 NumSamples 1 (Frame:1).
+[2019.03.18-10.02.11:467][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.18-10.02.11:467][  0]LogLoad: (Engine Initialization) Total time: 18.75 seconds
+[2019.03.18-10.02.11:467][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.18-10.02.11:514][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.18-10.02.11:685][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.18-10.02.11:817][  0]LogSlate: Took 0.042387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.18-10.02.11:832][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 0.33s
+[2019.03.18-10.02.20:276][488]LogSlate: Window 'Message Log' being destroyed
+[2019.03.18-10.02.20:279][488]LogSlate: Window 'Message Log' being destroyed
+[2019.03.18-10.02.27:298][908]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.18-10.02.27:567][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.02.27:721][933]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.18-10.02.28:340][933]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.03.18-10.02.28:454][933]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.18-10.02.28:454][933]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.18-10.02.28:454][933]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.18-10.02.28:454][933]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.18-10.02.28:456][933]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.02.28:480][933]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/City_1.City_1
+[2019.03.18-10.02.28:505][933]Cmd: MAP LOAD FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.18-10.02.28:505][933]LightingResults: New page: Lighting Build
+[2019.03.18-10.02.28:506][933]LoadErrors: New page: Loading map: City_1.umap
+[2019.03.18-10.02.28:507][933]MapCheck: New page: Map Check
+[2019.03.18-10.02.28:507][933]LightingResults: New page: Lighting Build
+[2019.03.18-10.02.29:997][933]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.18-10.02.30:074][933]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.18-10.02.30:142][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67,387ms to complete.
+[2019.03.18-10.02.30:146][933]LogFileHelpers: Loading map 'City_1' took 1.641
+[2019.03.18-10.02.36:485][300]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.18-10.02.36:538][303]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.18-10.02.47:678][968]LogAssetRegistry: Asset discovery search completed in 49.7583 seconds
+[2019.03.18-10.02.47:681][968]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2019.03.18-10.03.28:841][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.03.49:794][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.03.55:415][965]Cmd: SELECT NONE
+[2019.03.18-10.03.59:842][228]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.04.01:663][325]LogEditorViewport: Clicking on Actor (LMB): BP_PickupItem01_C (BP_PickupItem01)
+[2019.03.18-10.04.03:739][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.04.04:929][494]LogSlate: Took 0.070284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.18-10.04.20:055][360]Cmd: SELECT NONE
+[2019.03.18-10.04.25:676][697]LogEditorViewport: Clicking on Actor (LMB): BP_PickupItem01_C (BP_PickupItem01)
+[2019.03.18-10.04.27:279][792]Cmd: DELETE
+[2019.03.18-10.04.27:279][792]Cmd: ACTOR DELETE
+[2019.03.18-10.04.27:290][792]LogEditorActor: Deleted Actor: BP_PickupItem01_C
+[2019.03.18-10.04.27:327][792]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.03.18-10.05.23:462][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.18-10.05.25:969][290]Cmd: DELETE
+[2019.03.18-10.05.25:969][290]Cmd: ACTOR DELETE
+[2019.03.18-10.05.25:981][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.26:004][290]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.18-10.05.34:071][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2019.03.18-10.05.35:389][843]Cmd: DELETE
+[2019.03.18-10.05.35:389][843]Cmd: ACTOR DELETE
+[2019.03.18-10.05.35:401][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.35:423][843]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.18-10.05.35:785][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.03.18-10.05.35:844][866]Cmd: DELETE
+[2019.03.18-10.05.35:844][866]Cmd: ACTOR DELETE
+[2019.03.18-10.05.35:855][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.35:878][866]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.18-10.05.38:047][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.05.43:897][341]Cmd: DELETE
+[2019.03.18-10.05.43:897][341]Cmd: ACTOR DELETE
+[2019.03.18-10.05.43:910][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:910][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:910][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:911][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:911][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:911][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:912][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:912][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:912][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:913][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:913][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:913][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:914][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:914][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:914][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.18-10.05.43:936][341]LogEditorActor: Deleted 15 Actors (0.039 secs)
+[2019.03.18-10.05.47:452][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.05.48:220][556]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_128D0EAFF4ED425B8ABF59492C1230020.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1.umap'
+[2019.03.18-10.05.48:498][556]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_1_BuiltDataBF81C1244FFE174D767B6086951B531B.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1_BuiltData.uasset'
+[2019.03.18-10.06.03:637][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.06.11:587][912]Cmd: DELETE
+[2019.03.18-10.06.11:587][912]Cmd: ACTOR DELETE
+[2019.03.18-10.06.11:598][912]LogEditorActor: Deleted Actor: BP_PickupItem01_C
+[2019.03.18-10.06.11:624][912]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.18-10.06.16:976][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.06.17:146][242]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.BP_PickupItem01
+[2019.03.18-10.06.18:226][242]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.03.18-10.06.19:914][242]LogSlate: Took 0.022027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.18-10.06.36:946][176]BlueprintLog: New page: Compile BP_PickupItem01
+[2019.03.18-10.06.44:700][611]LogSlate: Window 'BP_PickupItem01*' being destroyed
+[2019.03.18-10.06.44:704][611]LogSlate: Window 'BP_PickupItem01*' being destroyed
+[2019.03.18-10.06.49:272][754]LogSlate: Window 'Save Content' being destroyed
+[2019.03.18-10.06.49:434][754]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem0172D7E06B41E13149C0DB62A1D1D89AE7.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.uasset'
+[2019.03.18-10.06.50:121][754]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_12C5681BD459F0B64D0697BAFBDDEBDF0.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1.umap'
+[2019.03.18-10.06.50:164][754]LogFileHelpers: Saving map 'City_1' took 0.705
+[2019.03.18-10.06.54:424][  9]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.BP_PickupItem01
+[2019.03.18-10.07.35:875][441]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem01E25655D247097388BF219CAE2027BB53.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.uasset'
+[2019.03.18-10.07.36:725][491]BlueprintLog: New page: Compile BP_PickupItem01
+[2019.03.18-10.07.40:455][697]LogSlate: Window 'BP_PickupItem01' being destroyed
+[2019.03.18-10.07.40:460][697]LogSlate: Window 'BP_PickupItem01' being destroyed
+[2019.03.18-10.07.54:750][524]Cmd: SELECT NONE
+[2019.03.18-10.07.58:135][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.07.58:218][730]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.07.58:248][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.07.58:248][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.07.58:367][730]PIE: New page: PIE session: City_1 (18 mars 2019 12:07:58)
+[2019.03.18-10.07.58:367][730]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.07.58:407][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040258s)
+[2019.03.18-10.07.58:408][730]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.07.58:409][730]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2019.03.18-10.07.58:409][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.041652s)
+[2019.03.18-10.07.58:468][730]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.07.58:476][730]LogInit: FAudioDevice initialized.
+[2019.03.18-10.07.58:520][730]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.07.58:529][730]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.07.58
+[2019.03.18-10.07.58:530][730]LogWorld: Bringing up level for play took: 0.008085
+[2019.03.18-10.07.58:562][730]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.03.18-10.07.58:613][730]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 -0,521
+[2019.03.18-10.07.58:613][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.08.07:487][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.08.07:587][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.08.07:587][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.08.07:628][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.08.07:628][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.08.07:659][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.08.07:695][261]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.18-10.08.13:320][598]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.BP_PickupItem01
+[2019.03.18-10.08.35:871][915]BlueprintLog: New page: Compile BP_PickupItem01
+[2019.03.18-10.08.49:850][732]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem01EAB2A76D4163AFF6957425BD1AD01C98.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.uasset'
+[2019.03.18-10.08.53:937][971]LogSlate: Window 'BP_PickupItem01' being destroyed
+[2019.03.18-10.08.53:941][971]LogSlate: Window 'BP_PickupItem01' being destroyed
+[2019.03.18-10.09.25:810][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.09.43:661][908]Cmd: SELECT NONE
+[2019.03.18-10.09.47:437][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.09.48:254][135]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.03.18-10.10.10:182][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.10.10:999][463]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.03.18-10.10.18:222][894]Cmd: TRANSACTION UNDO
+[2019.03.18-10.10.18:222][894]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.03.18-10.10.18:277][894]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2019.03.18-10.10.20:618][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.10.47:906][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.10.50:198][741]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.10.55:553][ 52]Cmd: SELECT NONE
+[2019.03.18-10.10.58:375][218]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.10.58:942][248]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.10.59:426][276]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.11.01:511][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.11.01:680][408]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest
+[2019.03.18-10.11.13:562][ 27]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.18-10.11.14:919][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.11.15:013][104]Cmd: MODE ROTGRID=1
+[2019.03.18-10.11.55:893][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.12.05:832][965]BlueprintLog: New page: Compile BP_Chest
+[2019.03.18-10.12.06:775][987]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/BP_ChestD5C9E813491271716FAEAAB9BF281E93.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.03.18-10.12.09:644][151]LogSlate: Window 'BP_Chest' being destroyed
+[2019.03.18-10.12.09:648][151]LogSlate: Window 'BP_Chest' being destroyed
+[2019.03.18-10.12.13:209][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.12.13:292][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.12.13:315][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.12.13:315][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.12.13:315][360]PIE: New page: PIE session: City_1 (18 mars 2019 12:12:13)
+[2019.03.18-10.12.13:315][360]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.12.13:359][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043306s)
+[2019.03.18-10.12.13:360][360]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.12.13:360][360]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2019.03.18-10.12.13:360][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.044797s)
+[2019.03.18-10.12.13:444][360]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.12.13:451][360]LogInit: FAudioDevice initialized.
+[2019.03.18-10.12.13:485][360]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.12.13:493][360]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.12.13
+[2019.03.18-10.12.13:524][360]LogWorld: Bringing up level for play took: 0.037381
+[2019.03.18-10.12.13:539][360]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,405
+[2019.03.18-10.12.13:539][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.12.16:532][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.12.28:801][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.12.28:802][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.12.28:837][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.12.28:837][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.12.28:869][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.12.28:927][261]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.18-10.12.42:217][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.12.46:226][238]Cmd: SELECT NONE
+[2019.03.18-10.12.59:205][  5]Cmd: SELECT NONE
+[2019.03.18-10.13.01:034][114]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.13.03:488][257]Cmd: SELECT NONE
+[2019.03.18-10.13.03:738][272]Cmd: SELECT NONE
+[2019.03.18-10.13.07:439][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.13.07:539][496]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.13.07:563][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.13.07:564][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.13.07:564][496]PIE: New page: PIE session: City_1 (18 mars 2019 12:13:07)
+[2019.03.18-10.13.07:564][496]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.13.07:605][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041157s)
+[2019.03.18-10.13.07:605][496]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.13.07:606][496]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.03.18-10.13.07:606][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.042099s)
+[2019.03.18-10.13.07:662][496]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.13.07:772][496]LogInit: FAudioDevice initialized.
+[2019.03.18-10.13.07:808][496]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.13.07:819][496]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.13.07
+[2019.03.18-10.13.07:820][496]LogWorld: Bringing up level for play took: 0.010413
+[2019.03.18-10.13.07:833][496]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,699
+[2019.03.18-10.13.07:833][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.13.42:545][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.13.42:630][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.13.42:630][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.13.42:673][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.13.42:674][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.13.42:706][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.13.42:743][584]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.18-10.13.56:422][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest
+[2019.03.18-10.14.22:619][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.14.22:718][886]BlueprintLog: New page: Compile BP_Chest
+[2019.03.18-10.14.34:840][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.14.35:047][597]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/BP_ChestE3FD1F6442EC25E899096498E1C940C1.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.03.18-10.14.39:021][821]LogSlate: Window 'BP_Chest' being destroyed
+[2019.03.18-10.14.39:027][821]LogSlate: Window 'BP_Chest' being destroyed
+[2019.03.18-10.14.41:297][951]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.14.54:732][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.14.54:815][732]Cmd: MODE ROTGRID=0
+[2019.03.18-10.14.56:790][848]Cmd: SELECT NONE
+[2019.03.18-10.14.57:022][862]Cmd: SELECT NONE
+[2019.03.18-10.14.58:602][955]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.15.01:396][118]Cmd: SELECT NONE
+[2019.03.18-10.15.01:629][132]Cmd: SELECT NONE
+[2019.03.18-10.15.07:413][476]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.15.14:863][921]Cmd: SELECT NONE
+[2019.03.18-10.15.22:120][354]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.15.24:179][475]Cmd: SELECT NONE
+[2019.03.18-10.15.32:149][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.15.32:263][955]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.15.32:292][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.15.32:292][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.15.32:292][955]PIE: New page: PIE session: City_1 (18 mars 2019 12:15:32)
+[2019.03.18-10.15.32:292][955]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.15.32:337][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045033s)
+[2019.03.18-10.15.32:338][955]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.15.32:338][955]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.03.18-10.15.32:338][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.046038s)
+[2019.03.18-10.15.32:429][955]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.15.32:437][955]LogInit: FAudioDevice initialized.
+[2019.03.18-10.15.32:467][955]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.15.32:474][955]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.15.32
+[2019.03.18-10.15.32:475][955]LogWorld: Bringing up level for play took: 0.007345
+[2019.03.18-10.15.32:488][955]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 -0,646
+[2019.03.18-10.15.32:488][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.15.42:106][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.15.44:506][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.15.51:967][107]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.52:555][142]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.52:738][153]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.52:905][163]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.53:254][184]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.53:404][193]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.53:555][202]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.53:705][211]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.53:871][221]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.54:055][232]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.54:238][243]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.54:422][254]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.54:605][265]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.54:789][276]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.15.55:122][296]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.16.02:758][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.16.02:758][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.16.02:800][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.16.02:800][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.16.02:832][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.16.02:886][756]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.18-10.16.05:139][887]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.16.34:839][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.16.43:764][167]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2019.03.18-10.16.45:794][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.16.51:118][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.16.56:822][930]Cmd: SELECT NONE
+[2019.03.18-10.16.59:744][101]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.00:172][124]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.00:709][155]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.01:196][183]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.17.01:959][227]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.02:605][263]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.17.03:472][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.17.05:687][444]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.06:540][493]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.03.18-10.17.07:083][525]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2019.03.18-10.17.08:293][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.17.21:391][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.17.21:489][368]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.17.21:514][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.21:514][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.17.21:515][368]PIE: New page: PIE session: City_1 (18 mars 2019 12:17:21)
+[2019.03.18-10.17.21:515][368]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.17.21:556][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041657s)
+[2019.03.18-10.17.21:557][368]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.17.21:557][368]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.03.18-10.17.21:557][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.042684s)
+[2019.03.18-10.17.21:618][368]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.17.21:627][368]LogInit: FAudioDevice initialized.
+[2019.03.18-10.17.21:662][368]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.17.21:670][368]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.17.21
+[2019.03.18-10.17.21:671][368]LogWorld: Bringing up level for play took: 0.007818
+[2019.03.18-10.17.21:684][368]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,55
+[2019.03.18-10.17.21:685][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.30:145][874]LogBlueprintUserMessages: [BP_Chest_2] Chest Already Used
+[2019.03.18-10.17.34:514][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.17.34:583][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.34:584][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.17.34:620][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.17.34:620][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.34:648][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.17.34:684][142]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.18-10.17.35:884][214]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.17.35:906][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.35:906][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.17.35:906][214]PIE: New page: PIE session: City_1 (18 mars 2019 12:17:35)
+[2019.03.18-10.17.35:906][214]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.17.35:945][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038494s)
+[2019.03.18-10.17.35:946][214]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.17.35:946][214]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.03.18-10.17.35:946][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.039454s)
+[2019.03.18-10.17.36:000][214]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.17.36:007][214]LogInit: FAudioDevice initialized.
+[2019.03.18-10.17.36:042][214]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.17.36:050][214]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.17.36
+[2019.03.18-10.17.36:050][214]LogWorld: Bringing up level for play took: 0.007053
+[2019.03.18-10.17.36:063][214]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,929
+[2019.03.18-10.17.36:063][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.17.51:551][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.18.13:040][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.18.13:111][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.13:111][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.18.13:152][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.18.13:152][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.13:181][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.18.13:217][436]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.18-10.18.18:007][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.18.26:579][209]Cmd: SELECT NONE
+[2019.03.18-10.18.26:929][230]Cmd: SELECT NONE
+[2019.03.18-10.18.29:431][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.18.29:514][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.18.29:536][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.29:536][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.18.29:536][382]PIE: New page: PIE session: City_1 (18 mars 2019 12:18:29)
+[2019.03.18-10.18.29:536][382]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.18.29:576][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039392s)
+[2019.03.18-10.18.29:577][382]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.18.29:577][382]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.03.18-10.18.29:577][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.040443s)
+[2019.03.18-10.18.29:633][382]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.18.29:640][382]LogInit: FAudioDevice initialized.
+[2019.03.18-10.18.29:673][382]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.18.29:682][382]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.18.29
+[2019.03.18-10.18.29:682][382]LogWorld: Bringing up level for play took: 0.006792
+[2019.03.18-10.18.29:695][382]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,561
+[2019.03.18-10.18.29:696][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.37:098][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.18.37:183][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.37:183][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.18.37:225][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.18.37:225][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.18.37:258][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.18.37:297][832]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.18-10.19.10:244][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.19.18:408][266]Cmd: SELECT NONE
+[2019.03.18-10.19.22:203][489]LogEditorViewport: Clicking on Actor (LMB): BP_PickupItem01_C (BP_PickupItem2)
+[2019.03.18-10.19.25:439][680]Cmd: SELECT NONE
+[2019.03.18-10.19.30:984][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.19.37:152][360]Cmd: SELECT NONE
+[2019.03.18-10.19.38:119][418]LogEditorViewport: Clicking on Actor (LMB): BP_PickupItem02_C (BP_PickupItem02)
+[2019.03.18-10.19.42:797][694]Cmd: SELECT NONE
+[2019.03.18-10.20.06:538][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.20.15:728][643]Cmd: SELECT NONE
+[2019.03.18-10.20.18:213][788]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest3)
+[2019.03.18-10.20.22:862][ 62]Cmd: SELECT NONE
+[2019.03.18-10.20.26:213][263]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest3)
+[2019.03.18-10.20.27:232][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.20.34:691][761]Cmd: SELECT NONE
+[2019.03.18-10.20.36:983][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.20.37:399][921]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.20.37:423][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.20.37:424][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.20.37:424][921]PIE: New page: PIE session: City_1 (18 mars 2019 12:20:37)
+[2019.03.18-10.20.37:424][921]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.20.37:476][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052361s)
+[2019.03.18-10.20.37:477][921]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.20.37:477][921]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2019.03.18-10.20.37:477][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.053686s)
+[2019.03.18-10.20.37:582][921]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.20.37:589][921]LogInit: FAudioDevice initialized.
+[2019.03.18-10.20.37:619][921]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.20.37:627][921]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.20.37
+[2019.03.18-10.20.37:627][921]LogWorld: Bringing up level for play took: 0.007305
+[2019.03.18-10.20.37:640][921]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 0,507
+[2019.03.18-10.20.37:641][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.20.43:431][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.20.43:431][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.20.43:476][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.20.43:476][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.20.43:505][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.20.43:533][263]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.18-10.20.44:508][320]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest3)
+[2019.03.18-10.20.48:029][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.20.48:096][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.18-10.20.48:119][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.20.48:119][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.18-10.20.48:119][532]PIE: New page: PIE session: City_1 (18 mars 2019 12:20:48)
+[2019.03.18-10.20.48:119][532]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_City_1
+[2019.03.18-10.20.48:157][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038654s)
+[2019.03.18-10.20.48:157][532]LogAIModule: Creating AISystem for world City_1
+[2019.03.18-10.20.48:158][532]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.03.18-10.20.48:158][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/City_1.City_1 to /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 (0.039685s)
+[2019.03.18-10.20.48:209][532]LogInit: XAudio2 using 'Haut-parleurs (2- Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.03.18-10.20.48:217][532]LogInit: FAudioDevice initialized.
+[2019.03.18-10.20.48:250][532]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.18-10.20.48:258][532]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.18-11.20.48
+[2019.03.18-10.20.48:259][532]LogWorld: Bringing up level for play took: 0.007298
+[2019.03.18-10.20.48:271][532]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_City_1 1,138
+[2019.03.18-10.20.48:271][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.21.06:565][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.21.06:566][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.21.06:604][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.18-10.21.06:604][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1' with GeneratedClass '/Game/TopDownBP/Maps/City_1.City_1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/City_1.City_1:PersistentLevel.City_1'
+[2019.03.18-10.21.06:633][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-10.21.06:685][630]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.18-10.22.24:653][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-10.22.25:959][714]LogSlate: Window 'Save Content' being destroyed
+[2019.03.18-10.22.26:372][714]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2019.03.18-10.22.26:903][714]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/City_1AB52ABBD4E98EE15FBAA738AA3F6B77D.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/City_1.umap'
+[2019.03.18-10.22.26:948][714]LogFileHelpers: Saving map 'City_1' took 0.962
