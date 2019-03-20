@@ -1,0 +1,524 @@
+﻿Log file open, 03/19/19 13:54:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299792
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.092s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/e-artsup/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.19-12.54.37:213][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.19-12.54.37:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.19-12.54.37:221][  0]LogHAL: Display: Platform has ~ 16 GB [17059442688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.19-12.54.37:221][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.19-12.54.37:221][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.19-12.54.37:221][  0]LogInit: Computer: MSI
+[2019.03.19-12.54.37:221][  0]LogInit: User: Clara
+[2019.03.19-12.54.37:222][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.19-12.54.37:222][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.03.19-12.54.37:222][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.19-12.54.37:222][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.19-12.54.37:222][  0]LogMemory: Process Physical Memory: 101.16 MB used, 101.16 MB peak
+[2019.03.19-12.54.37:222][  0]LogMemory: Process Virtual Memory: 89.57 MB used, 89.57 MB peak
+[2019.03.19-12.54.37:222][  0]LogMemory: Physical Memory: 7723.93 MB used,  8545.22 MB free, 16269.15 MB total
+[2019.03.19-12.54.37:222][  0]LogMemory: Virtual Memory: 4643.68 MB used,  8545.22 MB free, 134217728.00 MB total
+[2019.03.19-12.54.37:526][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.19-12.54.37:526][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.19-12.54.37:527][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.19-12.54.37:529][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2019.03.19-12.54.37:529][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.19-12.54.37:568][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.19-12.54.37:568][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.19-12.54.37:823][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.19-12.54.37:824][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.19-12.54.37:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.03.19-12.54.37:898][  0]LogD3D11RHI:       2987/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.19-12.54.37:906][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.19-12.54.37:906][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.19-12.54.37:909][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.19-12.54.37:909][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.19-12.54.37:909][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.19-12.54.37:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.19-12.54.37:940][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.19-12.54.37:940][  0]LogWindows: EnumDisplayDevices:
+[2019.03.19-12.54.37:940][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.19-12.54.37:941][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.19-12.54.37:941][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.19-12.54.37:941][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.19-12.54.37:942][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.19-12.54.37:942][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.19-12.54.37:942][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.19-12.54.37:942][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.19-12.54.37:942][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.03.19-12.54.37:942][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.03.19-12.54.37:942][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.03.19-12.54.37:942][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.03.19-12.54.37:987][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.19-12.54.38:005][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.19-12.54.38:007][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../Github/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/5196/).
+[2019.03.19-12.54.38:007][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Clara/AppData/Local/Temp/UnrealShaderWorkingDir/D9E95C7946D91736E208CCB9E4867071/'.
+[2019.03.19-12.54.38:302][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.19-12.54.38:316][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.19-12.54.38:331][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.19-12.54.38:346][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.19-12.54.38:361][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.19-12.54.38:377][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.19-12.54.38:394][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.19-12.54.38:408][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.19-12.54.38:415][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.54.38:505][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.19-12.54.38:567][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.19-12.54.38:567][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.19-12.54.38:591][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.19-12.54.38:591][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.19-12.54.38:605][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.19-12.54.38:618][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.19-12.54.38:631][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.19-12.54.38:646][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.19-12.54.38:655][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.19-12.54.38:655][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.19-12.54.38:716][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.19-12.54.38:716][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.19-12.54.38:716][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.19-12.54.39:452][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.19-12.54.39:507][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Clara/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.19-12.54.39:507][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Clara/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.19-12.54.39:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.19-12.54.39:508][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.19-12.54.39:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.19-12.54.39:508][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.19-12.54.39:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.19-12.54.39:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Clara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.19-12.54.39:535][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.19-12.54.39:535][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.19-12.54.39:553][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.19-12.54.39:555][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.19-12.54.39:555][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.19-12.54.39:640][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2019.03.19-12.54.39:953][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.19-12.54.40:087][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.19-12.54.40:090][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.19-12.54.40:090][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.19-12.54.40:090][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.19-12.54.40:090][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.19-12.54.40:107][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.03.19-12.54.40:599][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.081213 seconds
+[2019.03.19-12.54.40:606][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.19-12.54.40:606][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.19-12.54.40:606][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.19-12.54.41:540][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.19-12.54.41:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.19-12.54.41:698][  0]SourceControl: Source control is disabled
+[2019.03.19-12.54.41:698][  0]SourceControl: Source control is disabled
+[2019.03.19-12.54.41:700][  0]SourceControl: Source control is disabled
+[2019.03.19-12.54.41:700][  0]SourceControl: Source control is disabled
+[2019.03.19-12.54.41:907][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.19-12.54.42:001][  0]LogOcInput: OculusInput pre-init called
+[2019.03.19-12.54.42:064][  0]LogEngine: Initializing Engine...
+[2019.03.19-12.54.42:065][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.19-12.54.42:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-12.54.42:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-12.54.42:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-12.54.42:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-12.54.42:290][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.19-12.54.42:307][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.19-12.54.42:335][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.19-12.54.42:503][  0]LogInit: FAudioDevice initialized.
+[2019.03.19-12.54.42:503][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.19-12.54.42:603][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Clara/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.19-12.54.42:604][  0]LogInit: Texture streaming: Enabled
+[2019.03.19-12.54.42:620][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.19-12.54.42:633][  0]LogInit: Transaction tracking system initialized
+[2019.03.19-12.54.42:655][  0]BlueprintLog: New page: Editor Load
+[2019.03.19-12.54.42:732][  0]LocalizationService: Localization service is disabled
+[2019.03.19-12.54.43:068][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.19-12.54.43:068][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.19-12.54.43:068][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.19-12.54.43:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-12.54.43:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-12.54.43:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-12.54.43:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-12.54.43:188][  0]LogFileCache: Scanning file cache for directory 'D:/e-artsup/Github/ProjectBarter/ProjectBarter/Content/' took 0.02s
+[2019.03.19-12.54.43:188][  0]SourceControl: Source control is disabled
+[2019.03.19-12.54.43:188][  0]Cmd: MAP LOAD FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.19-12.54.43:188][  0]LightingResults: New page: Lighting Build
+[2019.03.19-12.54.43:191][  0]MapCheck: New page: Map Check
+[2019.03.19-12.54.43:191][  0]LightingResults: New page: Lighting Build
+[2019.03.19-12.54.44:200][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-12.54.44:217][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.19-12.54.44:248][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.19-12.54.44:321][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.65ms to complete.
+[2019.03.19-12.54.44:321][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.133
+[2019.03.19-12.54.44:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.54.44:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.54.44:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.54.44:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.54.44:486][  0]LogCollectionManager: Loaded 0 collections in 0.002323 seconds
+[2019.03.19-12.54.44:527][  0]LogFileCache: Scanning file cache for directory 'D:/e-artsup/Github/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.03.19-12.54.44:527][  0]LogFileCache: Scanning file cache for directory 'D:/e-artsup/Github/ProjectBarter/ProjectBarter/Content/Developers/Clara/Collections/' took 0.01s
+[2019.03.19-12.54.44:527][  0]LogFileCache: Scanning file cache for directory 'D:/e-artsup/Github/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.03.19-12.54.44:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.19-12.54.44:539][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2572 classes and 603 folders.
+[2019.03.19-12.54.44:547][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.54.44:619][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.54.44:626][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.19-12.54.44:739][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.19-12.54.44:742][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.19-12.54.44:751][  0]LogSlate: Took 0.000733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.19-12.54.44:852][  0]LogRenderer: Reallocating scene render targets to support 864x472 Format 10 NumSamples 1 (Frame:1).
+[2019.03.19-12.54.45:002][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.54.45:002][  0]LogLoad: (Engine Initialization) Total time: 9.83 seconds
+[2019.03.19-12.54.45:002][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.19-12.54.45:021][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.19-12.54.45:056][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.19-12.54.45:078][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.19-12.54.45:088][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/e-artsup/Github/ProjectBarter/ProjectBarter/Content/' took 0.05s
+[2019.03.19-12.54.45:100][  1]LogAssetRegistry: Asset discovery search completed in 5.4830 seconds
+[2019.03.19-12.54.45:102][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.19-12.54.45:102][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.03.19-12.54.46:039][ 55]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.19-12.56.57:413][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.58.00:637][600]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2019.03.19-12.58.01:116][600]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.03.19-12.58.01:929][600]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.19-12.58.02:056][601]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.19-12.58.55:718][818]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2019.03.19-13.00.02:935][624]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.19-13.00.13:477][256]BlueprintLog: New page: Compile TopDownController
+[2019.03.19-13.00.14:086][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2019.03.19-13.00.14:136][276]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/TopDownController82C60DD34CE308BEDD4121A56E94B72B.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2019.03.19-13.00.20:779][674]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.19-13.00.20:797][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-13.00.20:798][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.19-13.00.20:810][674]PIE: New page: PIE session: TopDownExampleMap (19 Mar 2019 15:00:20)
+[2019.03.19-13.00.20:810][674]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.19-13.00.20:834][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022945s)
+[2019.03.19-13.00.20:835][674]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-13.00.20:835][674]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2019.03.19-13.00.20:835][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024660s)
+[2019.03.19-13.00.20:891][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.19-13.00.20:981][674]LogInit: FAudioDevice initialized.
+[2019.03.19-13.00.20:995][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-13.00.21:092][674]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.19-13.00.21:096][674]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.19-14.00.21
+[2019.03.19-13.00.21:096][674]LogWorld: Bringing up level for play took: 0.002685
+[2019.03.19-13.00.21:120][674]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.03.19-13.00.21:125][674]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.108
+[2019.03.19-13.00.21:126][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-13.00.21:157][674]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.19-13.03.52:786][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-13.03.52:787][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-13.03.52:802][359]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.19-13.03.52:854][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.19-13.03.52:855][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-13.03.52:918][360]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.19-13.04.34:968][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2019.03.19-13.04.35:015][880]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/TopDownControllerE5575AA0454D88AC66D5558B85C5FE2C.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2019.03.19-13.05.19:114][315]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.19-13.05.33:327][162]LogMetaData: Removing '/Game/AlexRandomStuff/SaveGateDame.SKEL_SaveGateDame_C' ref from Metadata '/Game/AlexRandomStuff/SaveGateData.PackageMetaData'
+[2019.03.19-13.05.33:327][162]LogMetaData: Removing '/Game/AlexRandomStuff/SaveGateDame.SaveGateDame_C' ref from Metadata '/Game/AlexRandomStuff/SaveGateData.PackageMetaData'
+[2019.03.19-13.05.33:354][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlexRandomStuff/SaveGateDame" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/SaveGateDame.uasset" SILENT=true
+[2019.03.19-13.05.33:358][162]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/SaveGateDame7A75349B46586690AD82E6AE0B864B69.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/SaveGateDame.uasset'
+[2019.03.19-13.05.43:749][766]LogMetaData: Removing '/Game/AlexRandomStuff/saveGameData.saveGameData_C' ref from Metadata '/Game/AlexRandomStuff/SaveGateDame.PackageMetaData'
+[2019.03.19-13.05.43:749][766]LogMetaData: Removing '/Game/AlexRandomStuff/saveGameData.SKEL_saveGameData_C' ref from Metadata '/Game/AlexRandomStuff/SaveGateDame.PackageMetaData'
+[2019.03.19-13.05.43:777][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlexRandomStuff/saveGameData" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset" SILENT=true
+[2019.03.19-13.05.43:779][766]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/saveGameData2C45C38046FF6FE2DA7187A1E3B77EF0.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset'
+[2019.03.19-13.05.44:401][789]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AlexRandomStuff/saveGameData.saveGameData
+[2019.03.19-13.05.53:182][290]LogSlate: Window 'saveGameData' being destroyed
+[2019.03.19-13.06.04:886][992]BlueprintLog: New page: Compile saveGameData
+[2019.03.19-13.06.05:190][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlexRandomStuff/saveGameData" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset" SILENT=true
+[2019.03.19-13.06.05:238][  7]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/saveGameData589763034ECFF959CAC534853097ABB8.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset'
+[2019.03.19-13.06.08:715][210]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryWidget.InventoryWidget
+[2019.03.19-13.06.09:066][210]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryBarterWidget.InventoryBarterWidget
+[2019.03.19-13.06.09:408][210]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/BarterWidget.BarterWidget
+[2019.03.19-13.06.15:681][464]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.19-13.06.34:553][583]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/AlexRandomStuff/SavedDataStruct.SavedDataStruct
+[2019.03.19-13.07.00:726][143]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.19-13.07.04:091][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlexRandomStuff/SavedDataStruct" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/SavedDataStruct.uasset" SILENT=true
+[2019.03.19-13.07.04:094][344]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/SavedDataStruct467330234CCABEC819B16C8B5AC29D31.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/SavedDataStruct.uasset'
+[2019.03.19-13.07.57:962][567]BlueprintLog: New page: Compile saveGameData
+[2019.03.19-13.07.58:529][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlexRandomStuff/saveGameData" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset" SILENT=true
+[2019.03.19-13.07.58:539][597]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/saveGameData009E44DC480BCF28DC93C08189228715.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/AlexRandomStuff/saveGameData.uasset'
+[2019.03.19-13.08.39:682][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-13.08.47:809][538]LogAIModule: Creating AISystem for world MainMap
+[2019.03.19-13.08.47:830][538]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/MainMap.MainMap
+[2019.03.19-13.08.47:861][538]Cmd: MAP LOAD FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.19-13.08.47:861][538]LightingResults: New page: Lighting Build
+[2019.03.19-13.08.47:861][538]LoadErrors: New page: Loading map: MainMap.umap
+[2019.03.19-13.08.47:862][538]MapCheck: New page: Map Check
+[2019.03.19-13.08.47:862][538]LightingResults: New page: Lighting Build
+[2019.03.19-13.08.47:988][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.19-13.08.48:044][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.19-13.08.48:137][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.167ms to complete.
+[2019.03.19-13.08.48:137][538]LogFileHelpers: Loading map 'MainMap' took 0.279
+[2019.03.19-13.08.50:456][669]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap
+[2019.03.19-13.10.10:100][315]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.19-13.10.10:109][315]LogClass: Warning: Type mismatch in GameData of SKEL_MainMap_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.03.19-13.10.16:325][663]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.19-13.10.16:330][663]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.19-13.12.25:683][335]BlueprintLog: New page: Compile MainMap
+[2019.03.19-13.12.26:426][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainMap" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.19-13.12.26:668][362]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/MainMapF2CE47C041D65E40C95902B3F21DE56D.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/MainMap.umap'
+[2019.03.19-13.12.26:694][362]LogFileHelpers: Saving map 'MainMap' took 0.363
+[2019.03.19-13.12.55:158][ 68]LogSlate: Window 'MainMap - Level Blueprint Editor' being destroyed
+[2019.03.19-13.13.06:811][766]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/AlexRandomStuff/SavedDataStruct.SavedDataStruct
+[2019.03.19-13.13.48:444][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainMap" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.19-13.13.48:686][252]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/MainMap0736B8F7439E48FABD5B9995F9019982.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/MainMap.umap'
+[2019.03.19-13.13.48:712][252]LogFileHelpers: Saving map 'MainMap' took 0.359
+[2019.03.19-13.23.51:590][300]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/MainMap' took 0.033
+[2019.03.19-13.23.51:594][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2019.03.19-13.23.51:594][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2019.03.19-13.23.51:644][300]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/TopDownController_Auto188F91D224383F49A74A126A374E045D2.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto1.uasset'
+[2019.03.19-13.23.51:645][300]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.03.19-13.25.32:204][922]BlueprintLog: New page: Compile TopDownController
+[2019.03.19-13.25.32:852][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2019.03.19-13.25.32:902][944]LogSavePackage: Moving '../../../../../Github/ProjectBarter/ProjectBarter/Saved/TopDownController69C31BD2479C00712AEE148FA589471F.tmp' to '../../../../../Github/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2019.03.19-13.25.36:129][137]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.19-13.25.36:148][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TopDownBP/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.03.19-13.25.36:148][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.19-13.25.36:148][137]PIE: New page: PIE session: MainMap (19 Mar 2019 15:25:36)
+[2019.03.19-13.25.36:148][137]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_MainMap
+[2019.03.19-13.25.36:165][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016678s)
+[2019.03.19-13.25.36:166][137]LogAIModule: Creating AISystem for world MainMap
+[2019.03.19-13.25.36:166][137]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2019.03.19-13.25.36:166][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/MainMap.MainMap to /Game/TopDownBP/Maps/UEDPIE_0_MainMap.MainMap (0.017780s)
+[2019.03.19-13.25.36:225][137]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.19-13.25.36:311][137]LogInit: FAudioDevice initialized.
+[2019.03.19-13.25.36:324][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-13.25.36:403][137]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.19-13.25.36:405][137]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.03.19-14.25.36
+[2019.03.19-13.25.36:406][137]LogWorld: Bringing up level for play took: 0.001149
+[2019.03.19-13.25.36:421][137]LogScript: Warning: Accessed None trying to read property GameSavedData
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0147
+[2019.03.19-13.25.36:421][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSavedData". Blueprint:  TopDownController Function:  Execute Ubergraph Top Down Controller Graph:  EventGraph Node:  Set CurrentHealth
+[2019.03.19-13.25.36:421][137]LogScript: Warning: Accessed None reading structure CurrentHealth_3_9DA470E147BA764EB9723BB24F9DA872
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:015C
+[2019.03.19-13.25.36:421][137]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentHealth_3_9DA470E147BA764EB9723BB24F9DA872". Blueprint:  TopDownController Function:  Execute Ubergraph Top Down Controller Graph:  EventGraph Node:  Set CurrentHealth
+[2019.03.19-13.25.36:424][137]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_MainMap -0.593
+[2019.03.19-13.25.36:424][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TopDownBP/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.03.19-13.25.49:820][938]LogScript: Warning: Accessed None trying to read property GameData
+	MainMap_C /Game/TopDownBP/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.MainMap_C_3
+	Function /Game/TopDownBP/Maps/MainMap.MainMap_C:ExecuteUbergraph_MainMap:00D1
+[2019.03.19-13.25.49:821][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameData". Blueprint:  MainMap Function:  Execute Ubergraph Main Map Graph:  EventGraph Node:  Set Data
+[2019.03.19-13.25.49:837][939]LogNet: Browse: /Game/TopDownBP/Maps/City_1
+[2019.03.19-13.25.49:837][939]LogLoad: LoadMap: /Game/TopDownBP/Maps/City_1
+[2019.03.19-13.25.50:071][939]LogStaticMesh: Building static mesh oui_Palissade...
+[2019.03.19-13.25.50:078][939]LogStaticMesh: Built static mesh [0.01s] /Game/FBX_Yann/oui_Palissade.oui_Palissade
+[2019.03.19-13.25.50:514][939]LogAIModule: Creating AISystem for world City_1
+[2019.03.19-13.25.50:515][939]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.19-13.25.50:582][939]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1 up for play (max tick rate 60) at 2019.03.19-14.25.50
+[2019.03.19-13.25.50:584][939]LogWorld: Bringing up level for play took: 0.067814
+[2019.03.19-13.25.50:586][939]LogScript: Warning: Accessed None trying to read property GameSavedData
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0147
+[2019.03.19-13.25.50:586][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSavedData". Blueprint:  TopDownController Function:  Execute Ubergraph Top Down Controller Graph:  EventGraph Node:  Set CurrentHealth
+[2019.03.19-13.25.50:586][939]LogScript: Warning: Accessed None reading structure CurrentHealth_3_9DA470E147BA764EB9723BB24F9DA872
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_City_1.City_1:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:015C
+[2019.03.19-13.25.50:586][939]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentHealth_3_9DA470E147BA764EB9723BB24F9DA872". Blueprint:  TopDownController Function:  Execute Ubergraph Top Down Controller Graph:  EventGraph Node:  Set CurrentHealth
+[2019.03.19-13.25.50:586][939]LogLoad: Took 0.748794 seconds to LoadMap(/Game/TopDownBP/Maps/City_1)
+[2019.03.19-13.25.56:870][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TopDownBP/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.03.19-13.25.56:870][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-13.25.56:886][313]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.19-13.25.56:930][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.19-13.25.56:930][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TopDownBP/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.03.19-13.25.57:004][314]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.19-13.26.40:202][904]LogUObjectArray: Warning: Other object in slot
+[2019.03.19-13.26.42:211][904]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.009 s
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: 
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: Stack: 
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbbb1871f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbbaec0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbbaedb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbb6b411db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbb6b5060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbb538da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbae11ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbae0df337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d68204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbd7fae933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbd7dc281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d98190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d8b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbffc1d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbffc10270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbffc1f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbffc0c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffc37806d41 USER32.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffc37806713 USER32.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffbffc20646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ff6c42454e5 UE4Editor.exe!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ff6c4255b3c UE4Editor.exe!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ff6c4255bba UE4Editor.exe!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ff6c4263dac UE4Editor.exe!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ff6c4265aaa UE4Editor.exe!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffc35a03dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: [Callstack] 0x00007ffc37a53691 ntdll.dll!UnknownFunction []
+[2019.03.19-13.26.42:212][904]LogOutputDevice: Error: 
+[2019.03.19-13.26.42:214][904]LogStats:                SubmitErrorReport -  0.000 s
