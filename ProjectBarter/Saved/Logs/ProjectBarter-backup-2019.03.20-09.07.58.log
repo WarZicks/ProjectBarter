@@ -1,0 +1,604 @@
+﻿Log file open, 03/19/19 13:43:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304701
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.394s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ｔｊｔａｚ" -epicuserid=4ca65350dd334d3391b285b1ca2cac80 -epiclocale=fr-FR
+LogInit: Base Directory: D:/Program files (x86)/Epic Games/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.19-12.43.29:261][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.19-12.43.29:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.19-12.43.29:300][  0]LogHAL: Display: Platform has ~ 8 GB [8469508096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.19-12.43.29:300][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.19-12.43.29:300][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.19-12.43.29:300][  0]LogInit: Computer: MSI
+[2019.03.19-12.43.29:301][  0]LogInit: User: Tjtaz
+[2019.03.19-12.43.29:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.19-12.43.29:301][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.19-12.43.29:301][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.19-12.43.29:301][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.19-12.43.29:301][  0]LogMemory: Process Physical Memory: 101.73 MB used, 101.74 MB peak
+[2019.03.19-12.43.29:301][  0]LogMemory: Process Virtual Memory: 89.53 MB used, 89.53 MB peak
+[2019.03.19-12.43.29:301][  0]LogMemory: Physical Memory: 6124.89 MB used,  1952.26 MB free, 8077.15 MB total
+[2019.03.19-12.43.29:301][  0]LogMemory: Virtual Memory: 4641.34 MB used,  1952.26 MB free, 134217728.00 MB total
+[2019.03.19-12.43.29:323][  0]LogInit: Using OS detected language (fr-FR).
+[2019.03.19-12.43.29:323][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.03.19-12.43.29:324][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.03.19-12.43.29:325][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.03.19-12.43.29:325][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.19-12.43.29:367][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.19-12.43.29:367][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.19-12.43.29:649][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.19-12.43.29:649][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.19-12.43.29:776][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.03.19-12.43.29:776][  0]LogD3D11RHI:       8081/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.19-12.43.29:785][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.19-12.43.29:785][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.19-12.43.29:789][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.19-12.43.29:789][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.19-12.43.29:789][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.19-12.43.29:821][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.19-12.43.29:821][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.19-12.43.29:821][  0]LogWindows: EnumDisplayDevices:
+[2019.03.19-12.43.29:821][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.19-12.43.29:821][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.19-12.43.29:822][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.19-12.43.29:822][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.19-12.43.29:822][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.19-12.43.29:823][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.19-12.43.29:823][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.03.19-12.43.29:823][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.19-12.43.29:823][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.03.19-12.43.29:823][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.03.19-12.43.29:823][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.03.19-12.43.29:823][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.03.19-12.43.29:876][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.19-12.43.29:888][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.19-12.43.29:889][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/21132/).
+[2019.03.19-12.43.29:890][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tjtaz/AppData/Local/Temp/UnrealShaderWorkingDir/1A6F10214848C7B74C77AFA8718BDEE6/'.
+[2019.03.19-12.43.30:225][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.19-12.43.30:244][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.19-12.43.30:263][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.19-12.43.30:282][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.19-12.43.30:301][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.19-12.43.30:320][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.19-12.43.30:342][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.19-12.43.30:361][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.19-12.43.30:371][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:485][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:485][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:485][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:485][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.19-12.43.30:486][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.19-12.43.30:557][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.19-12.43.30:557][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.19-12.43.30:589][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.19-12.43.30:589][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.19-12.43.30:605][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.19-12.43.30:621][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.19-12.43.30:638][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.19-12.43.30:655][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.19-12.43.30:666][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.19-12.43.30:667][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.19-12.43.30:746][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.19-12.43.30:746][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.19-12.43.30:746][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.19-12.43.31:673][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.19-12.43.31:747][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.19-12.43.31:748][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.19-12.43.31:748][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.19-12.43.31:748][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.19-12.43.31:748][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.19-12.43.31:748][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.19-12.43.31:766][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.19-12.43.31:779][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tjtaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.19-12.43.31:779][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.19-12.43.31:779][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.19-12.43.31:804][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.19-12.43.31:806][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.19-12.43.31:809][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.19-12.43.31:898][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2019.03.19-12.43.32:298][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.19-12.43.32:459][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.19-12.43.32:463][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.19-12.43.32:463][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.19-12.43.32:463][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.19-12.43.32:463][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.19-12.43.32:482][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.03.19-12.43.33:151][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.146326 seconds
+[2019.03.19-12.43.33:158][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.19-12.43.33:159][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.19-12.43.33:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.19-12.43.34:486][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.19-12.43.34:500][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.19-12.43.35:027][  0]SourceControl: Source control is disabled
+[2019.03.19-12.43.35:027][  0]SourceControl: Source control is disabled
+[2019.03.19-12.43.35:028][  0]SourceControl: Source control is disabled
+[2019.03.19-12.43.35:029][  0]SourceControl: Source control is disabled
+[2019.03.19-12.43.35:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.19-12.43.35:422][  0]LogOcInput: OculusInput pre-init called
+[2019.03.19-12.43.35:494][  0]LogEngine: Initializing Engine...
+[2019.03.19-12.43.35:495][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.03.19-12.43.35:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-12.43.35:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-12.43.35:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-12.43.35:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-12.43.35:750][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.19-12.43.35:772][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.19-12.43.35:867][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.19-12.43.35:914][  0]LogInit: FAudioDevice initialized.
+[2019.03.19-12.43.35:915][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.19-12.43.36:040][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Tjtaz/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.19-12.43.36:048][  0]LogInit: Texture streaming: Enabled
+[2019.03.19-12.43.36:073][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.19-12.43.36:726][  0]LogInit: Transaction tracking system initialized
+[2019.03.19-12.43.36:760][  0]BlueprintLog: New page: Editor Load
+[2019.03.19-12.43.36:872][  0]LocalizationService: Localization service is disabled
+[2019.03.19-12.43.37:407][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.19-12.43.37:407][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.19-12.43.37:493][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 0.14s
+[2019.03.19-12.43.37:493][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.19-12.43.37:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.19-12.43.37:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.19-12.43.37:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.19-12.43.37:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.19-12.43.37:637][  0]SourceControl: Source control is disabled
+[2019.03.19-12.43.37:637][  0]Cmd: MAP LOAD FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.19-12.43.38:119][  0]LightingResults: New page: Lighting Build
+[2019.03.19-12.43.38:123][  0]MapCheck: New page: Map Check
+[2019.03.19-12.43.38:123][  0]LightingResults: New page: Lighting Build
+[2019.03.19-12.43.52:983][  0]LogTexture: Display: Building textures: obsidian (BGRA8, 1059X1061)
+[2019.03.19-12.43.52:983][  0]LogTexture: Display: Building textures: silex (BGRA8, 1063X1061)
+[2019.03.19-12.43.52:983][  0]LogTexture: Display: Building textures: berry (BGRA8, 1057X1061)
+[2019.03.19-12.43.55:838][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-12.43.56:940][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.19-12.43.57:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.19-12.43.57:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,823ms to complete.
+[2019.03.19-12.43.57:303][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 19.666
+[2019.03.19-12.43.59:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.43.59:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.43.59:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.43.59:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.43.59:439][  0]LogCollectionManager: Loaded 0 collections in 0.002674 seconds
+[2019.03.19-12.44.00:006][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.03.19-12.44.00:006][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Developers/Tjtaz/Collections/' took 0.01s
+[2019.03.19-12.44.00:006][  0]LogFileCache: Scanning file cache for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.03.19-12.44.00:006][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.19-12.44.00:023][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2572 classes and 603 folders.
+[2019.03.19-12.44.00:571][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.44.06:015][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.44.06:084][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.19-12.44.07:893][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.19-12.44.07:897][  0]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.19-12.44.07:968][  0]LogSlate: Took 0.033536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.19-12.44.09:145][  0]LogRenderer: Reallocating scene render targets to support 1176x660 Format 9 NumSamples 1 (Frame:1).
+[2019.03.19-12.44.11:026][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.19-12.44.11:026][  0]LogLoad: (Engine Initialization) Total time: 44.36 seconds
+[2019.03.19-12.44.11:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.19-12.44.11:044][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.44.11:491][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.19-12.44.11:785][  0]LogSlate: Took 0.026021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.19-12.44.11:817][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/' took 0.73s
+[2019.03.19-12.44.12:329][  3]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.19-12.44.12:380][  3]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryWidget.InventoryWidget
+[2019.03.19-12.44.13:916][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.03.19-12.44.16:919][  3]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryBarterWidget.InventoryBarterWidget
+[2019.03.19-12.44.17:387][  3]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/BarterWidget.BarterWidget
+[2019.03.19-12.44.18:918][  3]LogSlate: Took 0.016061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.19-12.44.27:106][342]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.19-12.44.30:387][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.44.36:945][867]LogAssetRegistry: Asset discovery search completed in 65.0696 seconds
+[2019.03.19-12.44.36:947][867]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2019.03.19-12.44.37:168][868]AssetReimport: New page: Outstanding source content changes 14:44:37
+[2019.03.19-12.44.37:498][869]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx]
+[2019.03.19-12.44.37:593][869]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx
+[2019.03.19-12.44.37:620][869]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.37:951][869]LogStaticMesh: Building static mesh Bush_BIG_Platonic...
+[2019.03.19-12.44.38:039][869]LogStaticMesh: Built static mesh [0.09s] /Game/Bush_BIG_Platonic.Bush_BIG_Platonic
+[2019.03.19-12.44.38:158][869]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:216][869]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx]
+[2019.03.19-12.44.38:225][869]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx
+[2019.03.19-12.44.38:233][869]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:243][869]LogStaticMesh: Building static mesh Bush_BIG_Platonic_1...
+[2019.03.19-12.44.38:246][869]LogStaticMesh: Built static mesh [0.00s] /Game/Bush_BIG_Platonic_1.Bush_BIG_Platonic_1
+[2019.03.19-12.44.38:256][869]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:433][870]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx]
+[2019.03.19-12.44.38:443][870]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx
+[2019.03.19-12.44.38:452][870]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:468][870]LogStaticMesh: Building static mesh Bush_MEDIUM_Platonic...
+[2019.03.19-12.44.38:484][870]LogStaticMesh: Built static mesh [0.02s] /Game/Bush_MEDIUM_Platonic.Bush_MEDIUM_Platonic
+[2019.03.19-12.44.38:495][870]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:523][870]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx]
+[2019.03.19-12.44.38:533][870]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx
+[2019.03.19-12.44.38:542][870]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:552][870]LogStaticMesh: Building static mesh Bush_MEDIUM_Platonic_1...
+[2019.03.19-12.44.38:555][870]LogStaticMesh: Built static mesh [0.00s] /Game/Bush_MEDIUM_Platonic_1.Bush_MEDIUM_Platonic_1
+[2019.03.19-12.44.38:562][870]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:643][871]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx]
+[2019.03.19-12.44.38:655][871]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx
+[2019.03.19-12.44.38:662][871]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:679][871]LogStaticMesh: Building static mesh Bush_SMALL_Platonic...
+[2019.03.19-12.44.38:694][871]LogStaticMesh: Built static mesh [0.02s] /Game/Bush_SMALL_Platonic.Bush_SMALL_Platonic
+[2019.03.19-12.44.38:705][871]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:732][871]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx]
+[2019.03.19-12.44.38:742][871]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx
+[2019.03.19-12.44.38:748][871]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:758][871]LogStaticMesh: Building static mesh Bush_SMALL_Platonic_1...
+[2019.03.19-12.44.38:762][871]LogStaticMesh: Built static mesh [0.00s] /Game/Bush_SMALL_Platonic_1.Bush_SMALL_Platonic_1
+[2019.03.19-12.44.38:769][871]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:823][872]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx]
+[2019.03.19-12.44.38:834][872]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx
+[2019.03.19-12.44.38:844][872]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:862][872]LogStaticMesh: Building static mesh Bush_veryBIG_Platonic...
+[2019.03.19-12.44.38:877][872]LogStaticMesh: Built static mesh [0.02s] /Game/Bush_veryBIG_Platonic.Bush_veryBIG_Platonic
+[2019.03.19-12.44.38:888][872]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:912][872]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx]
+[2019.03.19-12.44.38:922][872]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx
+[2019.03.19-12.44.38:930][872]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.38:936][872]LogStaticMesh: Building static mesh Bush_veryBIG_Platonic_1...
+[2019.03.19-12.44.38:940][872]LogStaticMesh: Built static mesh [0.00s] /Game/Bush_veryBIG_Platonic_1.Bush_veryBIG_Platonic_1
+[2019.03.19-12.44.38:947][872]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.38:974][872]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx]
+[2019.03.19-12.44.38:985][872]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx
+[2019.03.19-12.44.39:044][872]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.39:243][872]LogStaticMesh: Building static mesh Bush_veryBIG_Platonic_2...
+[2019.03.19-12.44.39:273][872]LogStaticMesh: Built static mesh [0.03s] /Game/Bush_veryBIG_Platonic_2.Bush_veryBIG_Platonic_2
+[2019.03.19-12.44.39:285][872]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.39:377][872]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx]
+[2019.03.19-12.44.39:472][872]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx
+[2019.03.19-12.44.39:526][872]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.39:723][872]LogStaticMesh: Building static mesh Bush_veryBIG_Platonic_3...
+[2019.03.19-12.44.39:748][872]LogStaticMesh: Built static mesh [0.03s] /Game/Bush_veryBIG_Platonic_3.Bush_veryBIG_Platonic_3
+[2019.03.19-12.44.39:756][872]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.39:908][873]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_BIG.fbx]
+[2019.03.19-12.44.39:973][873]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_BIG.fbx
+[2019.03.19-12.44.39:987][873]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.39:999][873]LogStaticMesh: Building static mesh Rock_BIG...
+[2019.03.19-12.44.40:000][873]LogStaticMesh: Built static mesh [0.00s] /Game/Rock_BIG.Rock_BIG
+[2019.03.19-12.44.40:011][873]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:059][874]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_MEDIUM.fbx]
+[2019.03.19-12.44.40:072][874]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_MEDIUM.fbx
+[2019.03.19-12.44.40:081][874]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:092][874]LogStaticMesh: Building static mesh Rock_MEDIUM...
+[2019.03.19-12.44.40:093][874]LogStaticMesh: Built static mesh [0.00s] /Game/Rock_MEDIUM.Rock_MEDIUM
+[2019.03.19-12.44.40:102][874]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:148][875]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_SMALL.fbx]
+[2019.03.19-12.44.40:160][875]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_SMALL.fbx
+[2019.03.19-12.44.40:169][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:181][875]LogStaticMesh: Building static mesh Rock_SMALL...
+[2019.03.19-12.44.40:182][875]LogStaticMesh: Built static mesh [0.00s] /Game/Rock_SMALL.Rock_SMALL
+[2019.03.19-12.44.40:190][875]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:234][876]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_la_maison_de_mickey.fbx]
+[2019.03.19-12.44.40:245][876]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_la_maison_de_mickey.fbx
+[2019.03.19-12.44.40:254][876]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:280][876]LogStaticMesh: Building static mesh SPOILER_la_maison_de_mickey...
+[2019.03.19-12.44.40:283][876]LogStaticMesh: Built static mesh [0.00s] /Game/SPOILER_la_maison_de_mickey.SPOILER_la_maison_de_mickey
+[2019.03.19-12.44.40:292][876]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:333][877]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.fbx]
+[2019.03.19-12.44.40:346][877]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.fbx
+[2019.03.19-12.44.40:355][877]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:366][877]LogStaticMesh: Building static mesh SPOILER_Palissade...
+[2019.03.19-12.44.40:368][877]LogStaticMesh: Built static mesh [0.00s] /Game/SPOILER_Palissade.SPOILER_Palissade
+[2019.03.19-12.44.40:378][877]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:420][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:433][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:442][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:455][878]LogStaticMesh: Building static mesh Tree_Bulbe_bas...
+[2019.03.19-12.44.40:455][878]LogStaticMesh: Built static mesh [0.00s] /Game/Tree_Bulbe_bas.Tree_Bulbe_bas
+[2019.03.19-12.44.40:464][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:488][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:500][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:510][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:522][878]LogStaticMesh: Building static mesh Tree_Bulbe_haut...
+[2019.03.19-12.44.40:522][878]LogStaticMesh: Built static mesh [0.00s] /Game/Tree_Bulbe_haut.Tree_Bulbe_haut
+[2019.03.19-12.44.40:531][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:557][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:567][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:577][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:618][878]LogStaticMesh: Building static mesh Tree_Feuillage_1...
+[2019.03.19-12.44.40:625][878]LogStaticMesh: Built static mesh [0.01s] /Game/Tree_Feuillage_1.Tree_Feuillage_1
+[2019.03.19-12.44.40:636][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:663][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:675][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:684][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:725][878]LogStaticMesh: Building static mesh Tree_Feuillage_2...
+[2019.03.19-12.44.40:732][878]LogStaticMesh: Built static mesh [0.01s] /Game/Tree_Feuillage_2.Tree_Feuillage_2
+[2019.03.19-12.44.40:743][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:773][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:785][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:796][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:838][878]LogStaticMesh: Building static mesh Tree_Feuillage_3...
+[2019.03.19-12.44.40:844][878]LogStaticMesh: Built static mesh [0.01s] /Game/Tree_Feuillage_3.Tree_Feuillage_3
+[2019.03.19-12.44.40:854][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.40:881][878]LogEditorFactories: Performing atomic reimport of [D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx]
+[2019.03.19-12.44.40:892][878]LogFbx: Loading FBX Scene from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx
+[2019.03.19-12.44.40:903][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.19-12.44.40:916][878]LogStaticMesh: Building static mesh Tree_Tronc...
+[2019.03.19-12.44.40:916][878]LogStaticMesh: Built static mesh [0.00s] /Game/Tree_Tronc.Tree_Tronc
+[2019.03.19-12.44.40:924][878]LogEditorFactories: -- imported successfully
+[2019.03.19-12.44.41:185][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bush_BIG_Platonic" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG_Platonic.uasset" SILENT=true
+[2019.03.19-12.44.41:392][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_BIG_PlatonicD70CDF0F4E7E24DD7848C88E76AEBE87.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG_Platonic.uasset'
+[2019.03.19-12.44.41:462][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bush_BIG_Platonic_1" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG_Platonic_1.uasset" SILENT=true
+[2019.03.19-12.44.41:490][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_BIG_Platonic_108A53EF74F3542CA6D3414BB40A6A37C.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG_Platonic_1.uasset'
+[2019.03.19-12.44.41:545][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_MEDIUM_Platonic6AC437AF47629C7A4C78A0A09476B96C.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM_Platonic.uasset'
+[2019.03.19-12.44.41:613][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_MEDIUM_Platonic_138C11ACF42F330268DACE29ED42ED123.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM_Platonic_1.uasset'
+[2019.03.19-12.44.41:639][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bush_SMALL_Platonic" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL_Platonic.uasset" SILENT=true
+[2019.03.19-12.44.41:668][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_SMALL_Platonic2B28ECBE4302BB3DE6784DB614959B0D.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL_Platonic.uasset'
+[2019.03.19-12.44.41:722][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_SMALL_Platonic_1DD20576C44A263BAF8D15395877976E5.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL_Platonic_1.uasset'
+[2019.03.19-12.44.41:775][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_veryBIG_PlatonicE7BB6C59481B23127E4B2E8C5B288D1E.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG_Platonic.uasset'
+[2019.03.19-12.44.41:826][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_veryBIG_Platonic_1DEB832B74E559D34275960AECB0FE64C.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG_Platonic_1.uasset'
+[2019.03.19-12.44.41:879][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_veryBIG_Platonic_2BBB9E6664DCC46BA8D5EEF82AA2A4363.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG_Platonic_2.uasset'
+[2019.03.19-12.44.41:933][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Bush_veryBIG_Platonic_303036211402397DA5AF53793BB101E63.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG_Platonic_3.uasset'
+[2019.03.19-12.44.41:959][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rock_BIG" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_BIG.uasset" SILENT=true
+[2019.03.19-12.44.41:988][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Rock_BIGB7AB421946106940A55456AA680EFEFD.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_BIG.uasset'
+[2019.03.19-12.44.42:010][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rock_MEDIUM" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_MEDIUM.uasset" SILENT=true
+[2019.03.19-12.44.42:040][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Rock_MEDIUMF2070DB0437676FF3E94D896F9342ADC.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_MEDIUM.uasset'
+[2019.03.19-12.44.42:062][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rock_SMALL" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_SMALL.uasset" SILENT=true
+[2019.03.19-12.44.42:098][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Rock_SMALLE905A0B24B91C3C43BBA84B971D6AEE6.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_SMALL.uasset'
+[2019.03.19-12.44.42:174][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/SPOILER_la_maison_de_mickey8DD034144CB8C4C60E74308B850936E2.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_la_maison_de_mickey.uasset'
+[2019.03.19-12.44.42:196][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPOILER_Palissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset" SILENT=true
+[2019.03.19-12.44.42:225][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/SPOILER_Palissade7E30A30E47F67A8DCBA73BB4118BD049.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset'
+[2019.03.19-12.44.42:252][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Bulbe_bas" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Bulbe_bas.uasset" SILENT=true
+[2019.03.19-12.44.42:281][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_Bulbe_basA08A0F8542736875A3C704A6BFCFC4BF.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Bulbe_bas.uasset'
+[2019.03.19-12.44.42:328][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Bulbe_haut" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Bulbe_haut.uasset" SILENT=true
+[2019.03.19-12.44.42:357][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_Bulbe_haut180E429642743CAB154A1A9E92C2D6BE.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Bulbe_haut.uasset'
+[2019.03.19-12.44.42:383][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Feuillage_1" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_1.uasset" SILENT=true
+[2019.03.19-12.44.42:413][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_Feuillage_1B0B3897A4A6BAB994806DEB95798D250.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_1.uasset'
+[2019.03.19-12.44.42:435][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Feuillage_2" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_2.uasset" SILENT=true
+[2019.03.19-12.44.42:466][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_Feuillage_2D11EF86849AAE647AD3A2E80F6CF9717.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_2.uasset'
+[2019.03.19-12.44.42:490][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Feuillage_3" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_3.uasset" SILENT=true
+[2019.03.19-12.44.42:533][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_Feuillage_3D3D6146D4A83D51E0778A7BD70F70B0F.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Feuillage_3.uasset'
+[2019.03.19-12.44.42:557][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Tronc" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Tronc.uasset" SILENT=true
+[2019.03.19-12.44.42:588][879]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Tree_TroncB6545DC941C526F89FD803A5D232FBA3.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree_Tronc.uasset'
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_BIG_Platonic from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_BIG_Platonic_1 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_BIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_MEDIUM_Platonic from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_MEDIUM_Platonic_1 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_MEDIUM.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_SMALL_Platonic from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_SMALL_Platonic_1 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_SMALL.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_veryBIG_Platonic from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_veryBIG_Platonic_1 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_veryBIG_Platonic_2 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Bush_veryBIG_Platonic_3 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Bush_veryBIG.fbx.
+[2019.03.19-12.44.45:596][ 57]AssetReimport: Reimported asset Rock_BIG from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_BIG.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Rock_MEDIUM from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_MEDIUM.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Rock_SMALL from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Rock_SMALL.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset SPOILER_la_maison_de_mickey from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_la_maison_de_mickey.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset SPOILER_Palissade from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Bulbe_bas from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Bulbe_haut from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Feuillage_1 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Feuillage_2 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Feuillage_3 from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.45:597][ 57]AssetReimport: Reimported asset Tree_Tronc from D:/Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Tree.fbx.
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:ReceiveBeginPlay' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:ReceiveTick' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:DefaultSceneRoot' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:Palissade' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh1' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh2' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh3' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh4' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:StaticMesh5' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:Box' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C:UserConstructionScript' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.SKEL_Pallissade_C' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:DefaultSceneRoot' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:Palissade' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:290][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh1' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh2' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh3' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh4' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:StaticMesh5' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:Box' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:291][521]LogMetaData: Removing '/Game/FBX_Yann/Pallissade.Pallissade_C:UserConstructionScript' ref from Metadata '/Game/Pallissade.PackageMetaData'
+[2019.03.19-12.44.55:364][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX_Yann/Pallissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/FBX_Yann/Pallissade.uasset" SILENT=true
+[2019.03.19-12.44.55:946][521]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Pallissade79035C2E4308E977A14B44A6803BC12C.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/FBX_Yann/Pallissade.uasset'
+[2019.03.19-12.44.55:953][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pallissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Pallissade.uasset" SILENT=true
+[2019.03.19-12.44.55:971][521]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/Pallissade02A4A8414B7ED6645BFA3F83BA96E9A0.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/Pallissade.uasset'
+[2019.03.19-12.44.58:549][664]LogStaticMesh: Building static mesh SPOILER_Palissade...
+[2019.03.19-12.44.58:551][664]LogStaticMesh: Built static mesh [0.00s] /Game/FBX_Yann/SPOILER_Palissade.SPOILER_Palissade
+[2019.03.19-12.45.01:057][808]LogSlate: Window 'Failed Renames' being destroyed
+[2019.03.19-12.45.11:227][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/oui_Palissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/oui_Palissade.uasset" SILENT=true
+[2019.03.19-12.45.11:247][372]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/oui_Palissade590FD14B4EAEBB790FF83296D33B21A6.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/oui_Palissade.uasset'
+[2019.03.19-12.45.11:253][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPOILER_Palissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset" SILENT=true
+[2019.03.19-12.45.11:265][372]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/SPOILER_Palissade7B72F981411155EA118D5FACA4521EB4.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset'
+[2019.03.19-12.45.15:396][612]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/oui_PalissadeC77211A04A6F1C05A066DDB56AD69048.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/FBX_Yann/oui_Palissade.uasset'
+[2019.03.19-12.45.15:836][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPOILER_Palissade" FILE="../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset" SILENT=true
+[2019.03.19-12.45.15:847][612]LogSavePackage: Moving '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Saved/SPOILER_Palissade5B8B01CC46F464AFA5705D899A77F25D.tmp' to '../../../../../../../Bureau/E-artsup/2nd année/Unreal/Neolitique/ProjectBarter/ProjectBarter/Content/SPOILER_Palissade.uasset'
+[2019.03.19-12.45.35:148][976]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.19-12.45.44:482][242]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.19-12.46.11:027][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.19-12.46.11:208][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-12.46.11:224][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.19-12.46.11:239][792]LogPlayLevel: [PlayLevel] Compiling Pallissade before play...
+[2019.03.19-12.46.11:685][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 461 ms (1 blueprints)
+[2019.03.19-12.46.11:765][792]PIE: New page: PIE session: TopDownExampleMap (19 mars 2019 14:46:11)
+[2019.03.19-12.46.11:781][792]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.19-12.46.11:842][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061449s)
+[2019.03.19-12.46.11:843][792]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-12.46.11:843][792]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2019.03.19-12.46.11:843][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.062921s)
+[2019.03.19-12.46.11:960][792]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.19-12.46.11:968][792]LogInit: FAudioDevice initialized.
+[2019.03.19-12.46.11:978][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.46.12:029][792]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.03.19-12.46.12:045][792]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.19-13.46.12
+[2019.03.19-12.46.12:230][792]LogWorld: Bringing up level for play took: 0.200870
+[2019.03.19-12.46.12:592][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.03.19-12.46.12:704][792]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1,587
+[2019.03.19-12.46.12:715][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-12.46.21:298][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.46.32:720][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.19-12.46.33:622][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.46.38:293][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.46.56:824][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-12.46.56:932][340]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.19-12.46.57:027][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-12.46.57:132][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.19-12.46.57:132][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-12.46.57:208][341]LogPlayLevel: Display: Destroying online subsystem :Context_9
