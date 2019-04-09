@@ -1,0 +1,737 @@
+﻿Log file open, 04/09/19 08:07:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectBarter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305265
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.094s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="WarZicks" -epicuserid=99887eaec6be48e1ab89856f117ef398 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.056s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.09-06.07.03:518][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-06.07.03:518][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.09-06.07.03:526][  0]LogHAL: Display: Platform has ~ 8 GB [8467357696 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.09-06.07.03:526][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.09-06.07.03:526][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.09-06.07.03:526][  0]LogInit: Computer: DESKTOP-CQL9TV7
+[2019.04.09-06.07.03:526][  0]LogInit: User: THéo
+[2019.04.09-06.07.03:526][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.09-06.07.03:526][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.04.09-06.07.03:526][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.09-06.07.03:526][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.09-06.07.03:526][  0]LogMemory: Process Physical Memory: 102.42 MB used, 102.42 MB peak
+[2019.04.09-06.07.03:526][  0]LogMemory: Process Virtual Memory: 89.38 MB used, 89.38 MB peak
+[2019.04.09-06.07.03:526][  0]LogMemory: Physical Memory: 5880.43 MB used,  2194.67 MB free, 8075.10 MB total
+[2019.04.09-06.07.03:526][  0]LogMemory: Virtual Memory: 4629.38 MB used,  2194.67 MB free, 134217728.00 MB total
+[2019.04.09-06.07.03:542][  0]LogInit: Using OS detected language (fr-FR).
+[2019.04.09-06.07.03:542][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.04.09-06.07.03:544][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.04.09-06.07.03:546][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2019.04.09-06.07.03:547][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.09-06.07.03:597][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.09-06.07.03:597][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.09-06.07.03:877][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-06.07.03:877][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.09-06.07.03:982][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.09-06.07.03:982][  0]LogD3D11RHI:       2987/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.09-06.07.03:994][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.09-06.07.03:995][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.09-06.07.03:997][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.09-06.07.03:997][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.09-06.07.03:997][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.09-06.07.04:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.09-06.07.04:028][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.09-06.07.04:028][  0]LogWindows: EnumDisplayDevices:
+[2019.04.09-06.07.04:028][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.09-06.07.04:028][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.09-06.07.04:029][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.09-06.07.04:029][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.09-06.07.04:030][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.09-06.07.04:030][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.09-06.07.04:030][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.09-06.07.04:031][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.09-06.07.04:031][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.09-06.07.04:031][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.04.09-06.07.04:031][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.04.09-06.07.04:031][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.04.09-06.07.04:074][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.09-06.07.04:091][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.09-06.07.04:092][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Intermediate/Shaders/WorkingDirectory/12536/).
+[2019.04.09-06.07.04:093][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/THéo/AppData/Local/Temp/UnrealShaderWorkingDir/A64C086B46C08AAEC45D5581A42920A9/'.
+[2019.04.09-06.07.04:370][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.09-06.07.04:386][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.09-06.07.04:403][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.09-06.07.04:419][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.09-06.07.04:436][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.09-06.07.04:452][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.09-06.07.04:468][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.09-06.07.04:484][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.09-06.07.04:492][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:584][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:585][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-06.07.04:586][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.09-06.07.04:650][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-06.07.04:650][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-06.07.04:675][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-06.07.04:675][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-06.07.04:688][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.09-06.07.04:702][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.09-06.07.04:718][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.09-06.07.04:733][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.09-06.07.04:746][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.09-06.07.04:746][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.09-06.07.04:818][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.09-06.07.04:818][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.09-06.07.04:818][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.09-06.07.05:635][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-06.07.05:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.09-06.07.05:715][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.09-06.07.05:728][  0]LogDerivedDataCache: Using Local data cache path C:/Users/THéo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.09-06.07.05:728][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.09-06.07.05:728][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.09-06.07.05:747][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.09-06.07.05:748][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.09-06.07.05:749][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.09-06.07.05:836][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2019.04.09-06.07.06:161][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-06.07.06:314][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.09-06.07.06:318][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.09-06.07.06:318][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.09-06.07.06:318][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.09-06.07.06:318][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.09-06.07.06:336][  0]LogNetVersion: ProjectBarter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2697442201)
+[2019.04.09-06.07.06:901][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080441 seconds
+[2019.04.09-06.07.06:911][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.09-06.07.06:911][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.04.09-06.07.06:911][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.09-06.07.07:979][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.09-06.07.07:992][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.09-06.07.08:140][  0]SourceControl: Source control is disabled
+[2019.04.09-06.07.08:140][  0]SourceControl: Source control is disabled
+[2019.04.09-06.07.08:141][  0]SourceControl: Source control is disabled
+[2019.04.09-06.07.08:142][  0]SourceControl: Source control is disabled
+[2019.04.09-06.07.08:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.09-06.07.08:362][  0]LogOcInput: OculusInput pre-init called
+[2019.04.09-06.07.08:426][  0]LogEngine: Initializing Engine...
+[2019.04.09-06.07.08:426][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-06.07.08:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-06.07.08:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-06.07.08:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-06.07.08:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-06.07.08:717][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.09-06.07.08:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.09-06.07.08:743][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.07.08:897][  0]LogInit: FAudioDevice initialized.
+[2019.04.09-06.07.08:897][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.09-06.07.08:976][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/THéo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.09-06.07.08:976][  0]LogInit: Texture streaming: Enabled
+[2019.04.09-06.07.08:999][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.09-06.07.09:012][  0]LogInit: Transaction tracking system initialized
+[2019.04.09-06.07.09:043][  0]BlueprintLog: New page: Editor Load
+[2019.04.09-06.07.09:136][  0]LocalizationService: Localization service is disabled
+[2019.04.09-06.07.09:426][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.09-06.07.09:426][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.09-06.07.09:426][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.09-06.07.09:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-06.07.09:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-06.07.09:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-06.07.09:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-06.07.09:570][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/' took 0.10s
+[2019.04.09-06.07.09:570][  0]SourceControl: Source control is disabled
+[2019.04.09-06.07.09:570][  0]Cmd: MAP LOAD FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.09-06.07.09:585][  0]LightingResults: New page: Lighting Build
+[2019.04.09-06.07.09:589][  0]MapCheck: New page: Map Check
+[2019.04.09-06.07.09:589][  0]LightingResults: New page: Lighting Build
+[2019.04.09-06.07.12:114][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.07.12:153][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.09-06.07.12:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.09-06.07.12:287][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104,056ms to complete.
+[2019.04.09-06.07.12:287][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.716
+[2019.04.09-06.07.12:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.07.12:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.07.12:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.07.12:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.07.12:506][  0]LogCollectionManager: Loaded 0 collections in 0.002580 seconds
+[2019.04.09-06.07.12:564][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Collections/' took 0.01s
+[2019.04.09-06.07.12:564][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/Developers/THéo/Collections/' took 0.01s
+[2019.04.09-06.07.12:564][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/Collections/' took 0.01s
+[2019.04.09-06.07.12:564][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.09-06.07.12:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2579 classes and 605 folders.
+[2019.04.09-06.07.12:596][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.09-06.07.12:738][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.09-06.07.12:761][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.09-06.07.12:941][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.09-06.07.12:944][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.09-06.07.13:038][  0]LogRenderer: Reallocating scene render targets to support 1072x436 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-06.07.13:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.09-06.07.13:281][  0]LogLoad: (Engine Initialization) Total time: 12.51 seconds
+[2019.04.09-06.07.13:281][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.09-06.07.13:292][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.09-06.07.13:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.09-06.07.13:358][  1]LogAssetRegistry: Asset discovery search completed in 7.5440 seconds
+[2019.04.09-06.07.13:359][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.09-06.07.13:359][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.04.09-06.07.14:316][ 86]LogSlate: Took 0.001734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-06.07.14:319][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-06.07.14:327][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2019.04.09-06.07.14:867][ 86]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.04.09-06.07.15:765][ 86]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InGame_Widget.InGame_Widget
+[2019.04.09-06.07.16:195][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2019.04.09-06.07.16:535][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/NPC/Merchant_AI_Character.Merchant_AI_Character
+[2019.04.09-06.07.16:876][ 86]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/LoseWidget.LoseWidget
+[2019.04.09-06.07.17:224][ 86]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/BarterWidget.BarterWidget
+[2019.04.09-06.07.17:567][ 86]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/MapWidget.MapWidget
+[2019.04.09-06.07.17:909][ 86]LogLinker: Warning: Can't resolve asset name
+[2019.04.09-06.07.17:929][ 86]LogSlate: Took 0.002281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.09-06.07.17:933][ 86]LogSlate: Took 0.001490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.09-06.07.18:352][106]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/' took 5.05s
+[2019.04.09-06.07.20:775][223]LogSlate: Took 0.001822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.09-06.07.22:773][348]LogSlate: Window 'TopDownGameMode' being destroyed
+[2019.04.09-06.07.24:181][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.09-06.07.50:338][451]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-06.07.51:342][548]LogSlate: Took 0.006200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.09-06.08.16:743][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.BP_PickupItem04
+[2019.04.09-06.08.19:141][336]LogRenderer: Reallocating scene render targets to support 1072x572 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-06.08.24:920][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.09.04:280][341]BlueprintLog: New page: Compile BP_PickupItem04
+[2019.04.09-06.09.05:434][431]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem0495E3633F4441EA049AE9719ECB9410E6.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.uasset'
+[2019.04.09-06.09.44:563][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItemParent.BP_PickupItemParent
+[2019.04.09-06.10.47:026][805]BlueprintLog: New page: Compile BP_PickupItem04
+[2019.04.09-06.10.47:958][848]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem04440A92234FBF671DEE2899908CD1D528.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.uasset'
+[2019.04.09-06.15.27:728][774]BlueprintLog: New page: Compile BP_PickupItemParent
+[2019.04.09-06.15.28:510][802]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItemParentB45361A24C4ABCEC1940EBA052B7B5BF.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItemParent.uasset'
+[2019.04.09-06.15.36:066][518]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem0420FAEA4148BD28E7F2D293AAB01F79D4.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.uasset'
+[2019.04.09-06.16.04:495][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.16.11:101][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.16.11:186][ 13]BlueprintLog: New page: Compile BP_PickupItem04
+[2019.04.09-06.16.12:084][ 46]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem04C6E17679463DDB91A4F34FA196C9CEDD.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.uasset'
+[2019.04.09-06.16.16:307][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.16.17:424][552]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMapB56DEE204DD9E8755DCBCCBBD06AC13E.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.04.09-06.16.17:649][552]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_BuiltData738EADCE4D54F80930011FBD7A0DEB06.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.04.09-06.16.28:881][738]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryWidget.InventoryWidget
+[2019.04.09-06.16.31:370][937]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/InventoryBarterWidget.InventoryBarterWidget
+[2019.04.09-06.18.51:958][647]BlueprintLog: New page: Compile InventoryBarterWidget
+[2019.04.09-06.18.52:656][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryBarterWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryBarterWidget.uasset" SILENT=true
+[2019.04.09-06.18.52:883][688]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryBarterWidget0AE79785476D9EBB2AE77B92F3B63EEE.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryBarterWidget.uasset'
+[2019.04.09-06.24.34:493][418]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.09-06.24.34:542][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.24.34:543][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-06.24.34:562][418]PIE: New page: PIE session: TopDownExampleMap (9 avr. 2019 10:24:34)
+[2019.04.09-06.24.34:562][418]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.04.09-06.24.34:582][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019694s)
+[2019.04.09-06.24.34:583][418]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.24.34:584][418]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2019.04.09-06.24.34:584][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021401s)
+[2019.04.09-06.24.34:644][418]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.24.34:719][418]LogInit: FAudioDevice initialized.
+[2019.04.09-06.24.34:732][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.24.34:846][418]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.04.09-06.24.34:854][418]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.04.09-08.24.34
+[2019.04.09-06.24.34:870][418]LogWorld: Bringing up level for play took: 0.023081
+[2019.04.09-06.24.34:910][418]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.04.09-06.24.34:924][418]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,803
+[2019.04.09-06.24.34:925][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.24.34:964][418]LogRenderer: Reallocating scene render targets to support 1072x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-06.24.38:608][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.24.38:610][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.24.38:628][626]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.09-06.24.38:674][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-06.24.38:675][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.24.38:744][627]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.09-06.26.21:380][236]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.039
+[2019.04.09-06.26.21:383][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01] ([1] browsable assets)...
+[2019.04.09-06.26.21:414][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01.BP_PickupItem01]
+[2019.04.09-06.26.21:414][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01]
+[2019.04.09-06.26.21:467][236]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem01_Auto15B047750496439E5799246B365810DF1.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem01_Auto1.uasset'
+[2019.04.09-06.26.21:469][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem02] ([1] browsable assets)...
+[2019.04.09-06.26.21:488][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem02.BP_PickupItem02]
+[2019.04.09-06.26.21:488][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem02]
+[2019.04.09-06.26.21:521][236]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem02_Auto1AA9065714692AD922242888891238F15.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem02_Auto1.uasset'
+[2019.04.09-06.26.21:524][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem03] ([1] browsable assets)...
+[2019.04.09-06.26.21:547][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem03.BP_PickupItem03]
+[2019.04.09-06.26.21:547][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem03]
+[2019.04.09-06.26.21:584][236]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem03_Auto192C48E4A4643AE6E7AFAE69E18F756E0.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Blueprints/PickupItems/BP_PickupItem03_Auto1.uasset'
+[2019.04.09-06.26.21:586][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/PickupItems/BP_Chest] ([1] browsable assets)...
+[2019.04.09-06.26.21:606][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest]
+[2019.04.09-06.26.21:607][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/PickupItems/BP_Chest]
+[2019.04.09-06.26.21:680][236]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest_Auto13AA3DFCC4E79DEBEA3FDCABE6CB5601D.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Blueprints/PickupItems/BP_Chest_Auto1.uasset'
+[2019.04.09-06.26.21:681][236]LogFileHelpers: Auto-saving content packages took 0.300
+[2019.04.09-06.30.11:080][921]AssetReimport: New page: Outstanding source content changes 10:30:11
+[2019.04.09-06.30.11:083][921]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item9.png)
+[2019.04.09-06.30.11:161][921]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item8.png)
+[2019.04.09-06.30.11:236][921]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item7.png)
+[2019.04.09-06.30.11:407][922]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item6.png)
+[2019.04.09-06.30.11:470][922]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item5.png)
+[2019.04.09-06.30.11:529][922]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item4.png)
+[2019.04.09-06.30.11:743][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item10.png)
+[2019.04.09-06.30.11:851][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item9" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item9.uasset" SILENT=true
+[2019.04.09-06.30.11:896][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item9D33418DF415531600349BE9B1E548C24.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item9.uasset'
+[2019.04.09-06.30.11:917][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item8" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item8.uasset" SILENT=true
+[2019.04.09-06.30.11:962][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item859D1A1F24E34819E90E0B2809E9435BA.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item8.uasset'
+[2019.04.09-06.30.11:982][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item7" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item7.uasset" SILENT=true
+[2019.04.09-06.30.12:024][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item741FCF1384128444A965AFD906DFED872.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item7.uasset'
+[2019.04.09-06.30.12:045][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item6" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item6.uasset" SILENT=true
+[2019.04.09-06.30.12:125][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item6CBBDDCC0489C5243B16A22864686B875.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item6.uasset'
+[2019.04.09-06.30.12:147][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item5" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item5.uasset" SILENT=true
+[2019.04.09-06.30.12:202][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item563E3AAE4427DCC02A93E3C81EA9E14C9.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item5.uasset'
+[2019.04.09-06.30.12:224][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item4" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item4.uasset" SILENT=true
+[2019.04.09-06.30.12:278][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item4D82D6E4145737004D0787F899E878151.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item4.uasset'
+[2019.04.09-06.30.12:301][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/item10" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item10.uasset" SILENT=true
+[2019.04.09-06.30.12:345][923]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/item1003FDCF4E4BBB9C298483C3A289784581.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UI/Inventory/item10.uasset'
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item9.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item8.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item7.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item6.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item5.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item4.
+[2019.04.09-06.30.15:381][933]AssetReimport: Importing new asset /Game/UI/Inventory/item10.
+[2019.04.09-06.31.58:175][926]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.31.58:862][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.31.59:368][965]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget731BC95D4FC91C71E291EE928A1CB502.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.33.10:450][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.09-06.33.10:951][313]LogEditorViewport: Clicking on Actor (LMB): BP_PickupItem02_C (PickupItem3)
+[2019.04.09-06.33.12:154][417]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem03_C (PickupItem5)
+[2019.04.09-06.33.13:125][504]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem02_C (PickupItem02)
+[2019.04.09-06.33.14:131][592]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem03_C (PickupItem4)
+[2019.04.09-06.33.15:192][686]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem01_C (PickupItem01)
+[2019.04.09-06.33.17:601][897]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem01_C (PickupItem2)
+[2019.04.09-06.33.20:010][113]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupItem03_C (PickupItem03)
+[2019.04.09-06.33.23:005][394]Cmd: DELETE
+[2019.04.09-06.33.23:005][394]Cmd: ACTOR DELETE
+[2019.04.09-06.33.23:027][394]LogEditorActor: Deleted Actor: BP_PickupItem02_C
+[2019.04.09-06.33.23:028][394]LogEditorActor: Deleted Actor: BP_PickupItem03_C
+[2019.04.09-06.33.23:029][394]LogEditorActor: Deleted Actor: BP_PickupItem02_C
+[2019.04.09-06.33.23:030][394]LogEditorActor: Deleted Actor: BP_PickupItem03_C
+[2019.04.09-06.33.23:030][394]LogEditorActor: Deleted Actor: BP_PickupItem01_C
+[2019.04.09-06.33.23:031][394]LogEditorActor: Deleted Actor: BP_PickupItem01_C
+[2019.04.09-06.33.23:031][394]LogEditorActor: Deleted Actor: BP_PickupItem03_C
+[2019.04.09-06.33.23:068][394]LogEditorActor: Deleted 7 Actors (0.054 secs)
+[2019.04.09-06.33.26:026][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-06.33.26:319][696]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap3482815043EA7701DB5E8AB50D5BFC18.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.04.09-06.33.26:471][696]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_BuiltDataC0254F4749A3779EA50301A110E3E1F8.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.04.09-06.33.31:415][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.33.31:582][178]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/PickupItems/BP_Chest.BP_Chest
+[2019.04.09-06.33.46:362][407]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_Chest65F1C8C94D22817CE22509A408C9A0DA.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_Chest.uasset'
+[2019.04.09-06.33.59:578][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.05:215][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.10:531][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.15:528][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.22:175][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.34:901][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.39:370][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.39:459][ 16]BlueprintLog: New page: Compile BP_PickupItem04
+[2019.04.09-06.34.40:101][ 44]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/BP_PickupItem04C179639B4D369E62F19C23AEF2097DD4.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/TopDownBP/Blueprints/PickupItems/BP_PickupItem04.uasset'
+[2019.04.09-06.34.44:383][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.09-06.34.44:419][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.34.44:420][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-06.34.44:420][422]PIE: New page: PIE session: TopDownExampleMap (9 avr. 2019 10:34:44)
+[2019.04.09-06.34.44:420][422]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.04.09-06.34.44:437][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016450s)
+[2019.04.09-06.34.44:437][422]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.34.44:438][422]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2019.04.09-06.34.44:438][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017944s)
+[2019.04.09-06.34.44:484][422]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.34.44:554][422]LogInit: FAudioDevice initialized.
+[2019.04.09-06.34.44:565][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.34.44:703][422]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.04.09-06.34.44:707][422]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.04.09-08.34.44
+[2019.04.09-06.34.44:707][422]LogWorld: Bringing up level for play took: 0.003777
+[2019.04.09-06.34.44:724][422]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,603
+[2019.04.09-06.34.44:729][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.34.50:397][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.56:620][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.34.58:064][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.34.58:605][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.34.58:609][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.34.58:631][471]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.09-06.34.58:675][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-06.34.58:676][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.34.58:738][472]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.04.09-06.35.46:534][  9]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.35.47:154][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.35.47:354][ 43]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget6593A33F4EACD8F90C4F998406C64C37.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.36.06:491][701]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.36.07:119][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.36.07:371][736]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget1878BF4A47FA1E16928C37896D648267.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.36.46:981][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.36.47:186][854]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget328CA7544F9624D85E728393CED61B15.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.37.05:971][491]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.37.07:351][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.37.07:562][602]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget6B6F8939433F348E3E7B03A8D5328473.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.37.28:733][453]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.37.29:334][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.37.29:540][485]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetD1A2B3F944261DD639DFF3891B61A608.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.37.54:860][733]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.37.55:441][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.37.55:656][761]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetE6D345E44BDA3C138FF496AAB9A7455C.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.38.16:648][615]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.38.17:282][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.38.17:531][651]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget941952454C528A6EF609169941C67B93.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.38.40:689][782]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.38.41:304][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.38.41:508][815]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget3BCA61BB45391C4C8ACDF8AD1115BB43.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.38.57:036][119]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.38.57:612][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.38.57:825][150]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget55E1B1784DC5BE2C60D0F499B77A8881.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.39.30:185][155]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.39.30:928][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.39.31:153][196]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget787962824051CF393A08809482C8E1D0.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.40.08:889][731]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.09-06.40.08:927][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.40.08:928][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-06.40.08:928][731]PIE: New page: PIE session: TopDownExampleMap (9 avr. 2019 10:40:08)
+[2019.04.09-06.40.08:928][731]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.04.09-06.40.08:945][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016578s)
+[2019.04.09-06.40.08:946][731]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.40.08:947][731]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2019.04.09-06.40.08:947][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018492s)
+[2019.04.09-06.40.08:989][731]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.40.09:060][731]LogInit: FAudioDevice initialized.
+[2019.04.09-06.40.09:070][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.40.09:209][731]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.04.09-06.40.09:213][731]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.04.09-08.40.09
+[2019.04.09-06.40.09:214][731]LogWorld: Bringing up level for play took: 0.004167
+[2019.04.09-06.40.09:230][731]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1,108
+[2019.04.09-06.40.09:230][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.40.13:942][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.40.20:450][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.40.23:591][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.40.23:592][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.40.23:616][622]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.09-06.40.23:658][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-06.40.23:658][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.40.23:717][623]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.04.09-06.41.31:519][230]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.09-06.41.31:552][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.31:552][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-06.41.31:553][230]PIE: New page: PIE session: TopDownExampleMap (9 avr. 2019 10:41:31)
+[2019.04.09-06.41.31:553][230]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.04.09-06.41.31:569][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015849s)
+[2019.04.09-06.41.31:570][230]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.41.31:571][230]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2019.04.09-06.41.31:571][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017919s)
+[2019.04.09-06.41.31:614][230]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.41.31:681][230]LogInit: FAudioDevice initialized.
+[2019.04.09-06.41.31:690][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.41.31:829][230]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.04.09-06.41.31:834][230]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.04.09-08.41.31
+[2019.04.09-06.41.31:835][230]LogWorld: Bringing up level for play took: 0.004213
+[2019.04.09-06.41.31:850][230]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0,271
+[2019.04.09-06.41.31:850][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.37:351][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.41.39:239][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.39:242][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.41.39:263][694]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.09-06.41.39:311][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-06.41.39:312][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.39:367][695]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.09-06.41.40:511][788]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.09-06.41.40:538][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.40:539][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-06.41.40:539][788]PIE: New page: PIE session: TopDownExampleMap (9 avr. 2019 10:41:40)
+[2019.04.09-06.41.40:539][788]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.04.09-06.41.40:553][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012847s)
+[2019.04.09-06.41.40:554][788]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.04.09-06.41.40:554][788]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2019.04.09-06.41.40:554][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014569s)
+[2019.04.09-06.41.40:596][788]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.09-06.41.40:661][788]LogInit: FAudioDevice initialized.
+[2019.04.09-06.41.40:671][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.41.40:763][788]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.04.09-06.41.40:768][788]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.04.09-08.41.40
+[2019.04.09-06.41.40:768][788]LogWorld: Bringing up level for play took: 0.003854
+[2019.04.09-06.41.40:785][788]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,663
+[2019.04.09-06.41.40:785][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.51:679][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.41.53:515][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-06.41.57:563][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.57:566][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-06.41.57:588][845]LogSlate: Window 'ProjectBarter Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.09-06.41.57:633][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-06.41.57:633][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.04.09-06.41.57:687][846]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.04.09-06.46.11:286][964]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.46.12:053][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.46.12:554][  2]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetDEEB2821469F173D6212CFAE4F3B5BA7.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.47.14:405][613]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.47.15:285][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.47.15:503][674]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget007730C2405BF2D2348ECD9206D9C55C.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.47.36:867][899]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/TopDownExampleMap_Auto208B463334AB8F718460D4591B3AFA611.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.04.09-06.47.36:870][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.301
+[2019.04.09-06.47.36:871][899]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2019.04.09-06.48.17:857][509]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.48.18:456][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.48.18:722][538]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget3A8BF91B4A40023318998BB7EE23F7FF.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.48.57:964][991]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.48.58:488][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.48.59:009][ 11]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetA159A7EA4DABD327AA9D71985FDEF8E0.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.49.35:276][ 68]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.49.36:571][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.49.36:816][149]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget7C85C0A348D42FE1B461DFB3680A48FB.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.50.27:655][555]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.50.28:334][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.50.28:663][587]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget08E98CBC43F9E0EEBDB6E39E39DAD9ED.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.51.35:985][536]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.51.36:607][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.51.36:869][561]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget57FF023E48B6ED06D36E49B56740AD17.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.52.49:905][904]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.52.50:571][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.52.50:836][934]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidget8072B609450B483612A242A63D472F8A.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.53.55:847][793]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.53.56:499][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.53.56:773][817]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetFDDFFD69473269513DF55AAA19EF0399.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.54.09:245][930]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.09-06.54.10:244][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_1 or K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_1
+[2019.04.09-06.54.10:245][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_2 or K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_2
+[2019.04.09-06.54.10:245][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_3 or K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_3
+[2019.04.09-06.54.10:246][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_4 or K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_4
+[2019.04.09-06.54.10:246][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_2 or K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_2
+[2019.04.09-06.54.10:247][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_3 or K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_3
+[2019.04.09-06.54.10:247][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_4 or K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_4
+[2019.04.09-06.54.10:248][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_5 or K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_5
+[2019.04.09-06.54.10:249][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_0 or K2Node_FunctionResult /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_FunctionResult_0
+[2019.04.09-06.54.10:249][ 17]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_1 or K2Node_CallFunction /Game/UMG/InventoryWidget.InventoryWidget:Get_Slot_10_Brush_0.K2Node_CallFunction_1
+[2019.04.09-06.54.39:931][457]BlueprintLog: New page: Compile InventoryWidget
+[2019.04.09-06.54.40:581][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/InventoryWidget" FILE="D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset" SILENT=true
+[2019.04.09-06.54.40:862][487]LogSavePackage: Moving 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Saved/InventoryWidgetFFE197604A127E6CCD1A0FB1152D43AE.tmp' to 'D:/Documents/e-artsup/B2/Jeu Neolithique/ProjectBarter/ProjectBarter/Content/UMG/InventoryWidget.uasset'
+[2019.04.09-06.57.55:623][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/AlexRandomStuff/HPBar.HPBar:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:623][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LoseWidget.LoseWidget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:624][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:624][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InGame_Widget.InGame_Widget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:624][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/MapWidget.MapWidget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:625][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:625][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/BarterWidget.BarterWidget:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:626][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/BarterWidget.SKEL_BarterWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:626][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/DialogueWidget.SKEL_DialogueWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:627][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/AlexRandomStuff/HPBar.SKEL_HPBar_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:627][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_25:InventoryBarterWidget_C_38.WidgetTree_0.CanvasPanel_0
+[2019.04.09-06.57.55:627][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:627][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LoseWidget.SKEL_LoseWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:628][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/MapWidget.SKEL_MapWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:628][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/BarterWidget.BarterWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:628][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:629][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/AlexRandomStuff/HPBar.HPBar_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:629][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InGame_Widget.InGame_Widget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:629][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/LoseWidget.LoseWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:629][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/MapWidget.MapWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:630][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/InventoryBarterWidget.InventoryBarterWidget_C:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:630][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_InventoryWidget_C_94:WidgetTree.CanvasPanel_0
+[2019.04.09-06.57.55:630][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_23:InventoryWidget_C_100.WidgetTree_0.CanvasPanel_0
+[2019.04.09-06.57.55:631][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_23:InventoryWidget_C_99.WidgetTree_0.CanvasPanel_0
+[2019.04.09-06.57.55:631][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_23:InventoryWidget_C_98.WidgetTree_0.CanvasPanel_0
+[2019.04.09-06.57.55:631][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/DialogueWidget.DialogueWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_23:InventoryWidget_C_101.WidgetTree_0.CanvasPanel_0
+[2019.04.09-06.57.55:631][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:632][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.World_23:InventoryWidget_C_101.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:632][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.World_23:InventoryWidget_C_100.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:632][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.World_23:InventoryWidget_C_98.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:633][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.World_25:InventoryBarterWidget_C_38.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:633][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.World_23:InventoryWidget_C_99.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:634][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Game/UMG/InventoryWidget.InventoryWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:634][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Engine/Transient.REINST_InventoryWidget_C_94:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:634][851]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24 or CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24
+[2019.04.09-06.57.55:635][851]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/InventoryBarterWidget.InventoryBarterWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_24) from referencer (Button /Engine/UMG/Editor/Transient.Button_Slot_03).  Import failed...
+[2019.04.09-06.57.55:635][851]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_24"''
+[2019.04.09-06.57.58:494][ 71]LogEditorTransaction: Undo Animatable Property Changed
+[2019.04.09-06.59.16:436][ 71]LogStats: FPlatformStackWalk::StackWalkAndDump - 77.942 s
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: 
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: 
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: Stack: 
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb21fd71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.09-06.59.16:437][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb21d10c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb21d2b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae6eef1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae5394c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae53c01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae53a6535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae5412dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae5459b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:438][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae53ec81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae47005b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb20f924df UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb20fd437e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae5c43a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffae5c31a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb20f570ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.09-06.59.16:439][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb20fd606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb20fc9846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb462ece45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb462e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb462ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb462dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb594f6d41 USER32.dll!UnknownFunction []
+[2019.04.09-06.59.16:440][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb594f6713 USER32.dll!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb462f0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff6003454e5 UE4Editor.exe!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff600355b3c UE4Editor.exe!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff600355bba UE4Editor.exe!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff600363dac UE4Editor.exe!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff600365aaa UE4Editor.exe!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb593b3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.09-06.59.16:441][ 71]LogOutputDevice: Error: [Callstack] 0x00007ffb5b403691 ntdll.dll!UnknownFunction []
+[2019.04.09-06.59.16:442][ 71]LogOutputDevice: Error: 
+[2019.04.09-06.59.16:443][ 71]LogStats:                SubmitErrorReport -  0.000 s
