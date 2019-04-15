@@ -2940,3 +2940,4 @@ LogInit: Object subsystem initialized
 [2019.04.15-13.59.32:350][517]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
 [2019.04.15-13.59.32:363][517]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2019.04.15-13.59.32:643][517]LogExit: Exiting.
+[2019.04.15-13.59.35:512][517]Log file closed, 04/15/19 15:59:35
